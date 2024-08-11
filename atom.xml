@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://rc.davidson.edu/atom.xml</id>
+  <title type="html">Research Computing</title>
+  <link href="https://rc.davidson.edu/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
+  <updated>2024-08-10T20:47:27+00:00</updated>
+  <generator uri="https://github.com/maedadev/mkdocs-atom-plugin/" version="0.0.5">MkDocs Atom Plugin</generator>
+
+  
+  <entry>
+    <id>https://rc.davidson.edu/tutorials/slurm/job-arrays/job-arrays/</id>
+    <title type="html">Job Arrays</title>
+    <link href="https://rc.davidson.edu/tutorials/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:30+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;id&#34;: &#34;735352a1&#34;,
+   &#34;metadata&#34;: {},
+   &#34;source&#34;: [
+    &#34;# Job Arrays&#34;
+   ]
+  },
+  {
+   &#34;cell_type&#34;: &#34;code&#34;,...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/tutorials/slurm/job-arrays/three_body/</id>
+    <title type="html">Three body</title>
+    <link href="https://rc.davidson.edu/tutorials/slurm/job-arrays/three_body/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:30+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;p&gt;import sys, hashlib, os
+import numpy as np
+from scipy.integrate import solve_ivp
+import matplotlib.pyplot as plt&lt;/p&gt;
+&lt;h1&gt;initial mass for each of the three bodies...&lt;/h1&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/tutorials/slurm/basic-usage/</id>
+    <title type="html">Jobs &amp;amp; Batch Scripts</title>
+    <link href="https://rc.davidson.edu/tutorials/slurm/basic-usage/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:29+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;metadata&#34;: {
+    &#34;slideshow&#34;: {
+     &#34;slide_type&#34;: &#34;slide&#34;
+    }
+   },
+   &#34;source&#34;: [
+    &#34;\n&#34;,
+    &#34;# Jobs...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/tutorials/slurm/containers/</id>
+    <title type="html">Using Containers</title>
+    <link href="https://rc.davidson.edu/tutorials/slurm/containers/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:29+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;metadata&#34;: {},
+   &#34;source&#34;: [
+    &#34;# Using Containers&#34;
+   ]
+  },
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;metada...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/tutorials/ResourceLimits/</id>
+    <title type="html">CPU Limits &amp;amp; Usage</title>
+    <link href="https://rc.davidson.edu/tutorials/ResourceLimits/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:28+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;id&#34;: &#34;e0a3db00-adbf-4509-883c-d2a8c050db1b&#34;,
+   &#34;metadata&#34;: {},
+   &#34;source&#34;: [
+    &#34;# CPU Limits &amp;amp; Usage\n&#34;...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/tutorials/slurm/advanced-batch-scripting/</id>
+    <title type="html">Advanced Batch Scripting</title>
+    <link href="https://rc.davidson.edu/tutorials/slurm/advanced-batch-scripting/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:28+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;metadata&#34;: {},
+   &#34;source&#34;: [
+    &#34;# Advanced Batch Scripting&#34;
+   ]
+  },
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+  ...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/</id>
+    <title type="html">Home</title>
+    <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Welcome &amp;amp; First Steps&lt;/h1&gt;
+&lt;p&gt;For full documentation visit &lt;a href=&#34;https://rc.davidson.edu&#34;&gt;rc.davidson.edu&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Commands&lt;/h2&gt;
+&lt;p&gt;:heart:&lt;/p&gt;
+&lt;p&gt;!!! Note
+    This should look differ...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/advanced/</id>
+    <title type="html">Index</title>
+    <link href="https://rc.davidson.edu/docs/advanced/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">None</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/advanced/conda/</id>
+    <title type="html">Conda</title>
+    <link href="https://rc.davidson.edu/docs/advanced/conda/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">None</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/advanced/git/</id>
+    <title type="html">Git &amp; GitHub</title>
+    <link href="https://rc.davidson.edu/docs/advanced/git/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">None</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/advanced/modules/</id>
+    <title type="html">Environment Modules</title>
+    <link href="https://rc.davidson.edu/docs/advanced/modules/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">None</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/advanced/software/</id>
+    <title type="html">Software</title>
+    <link href="https://rc.davidson.edu/docs/advanced/software/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">None</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/advanced/development/</id>
+    <title type="html">Development</title>
+    <link href="https://rc.davidson.edu/docs/advanced/development/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">None</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/advanced/jupyterhub/</id>
+    <title type="html">JupyterHub</title>
+    <link href="https://rc.davidson.edu/docs/advanced/jupyterhub/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">None</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/advanced/jupyterlab/</id>
+    <title type="html">JupyterLab</title>
+    <link href="https://rc.davidson.edu/docs/advanced/jupyterlab/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">None</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/advanced/slurm/</id>
+    <title type="html">SLURM</title>
+    <link href="https://rc.davidson.edu/docs/advanced/slurm/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">None</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/basics/</id>
+    <title type="html">Index</title>
+    <link href="https://rc.davidson.edu/docs/basics/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">None</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/basics/galaxy/</id>
+    <title type="html">Galaxy</title>
+    <link href="https://rc.davidson.edu/docs/basics/galaxy/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Galaxy&lt;/h1&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/basics/intro/</id>
+    <title type="html">Introduction</title>
+    <link href="https://rc.davidson.edu/docs/basics/intro/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;First Steps&lt;/h1&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/basics/jupyter/</id>
+    <title type="html">Jupyter</title>
+    <link href="https://rc.davidson.edu/docs/basics/jupyter/" rel="alternate" type="text/html"/>
+    
+    <updated>2024-08-10T20:47:27+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Jupyter&lt;/h1&gt;</summary>
+  </entry>
+  
+</feed>
