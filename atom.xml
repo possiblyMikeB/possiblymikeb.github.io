@@ -4,41 +4,16 @@
   <title type="html">Research Computing</title>
   <link href="https://rc.davidson.edu/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
-  <updated>2025-02-15T22:43:11+00:00</updated>
+  <updated>2025-02-15T22:59:03+00:00</updated>
   <generator uri="https://github.com/maedadev/mkdocs-atom-plugin/" version="0.0.5">MkDocs Atom Plugin</generator>
 
-  
-  <entry>
-    <id>https://rc.davidson.edu/guides/slurm/containers/</id>
-    <title type="html">Using Containers</title>
-    <link href="https://rc.davidson.edu/guides/slurm/containers/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:43:16+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;p&gt;{
- &#34;cells&#34;: [
-  {
-   &#34;cell_type&#34;: &#34;markdown&#34;,
-   &#34;metadata&#34;: {},
-   &#34;source&#34;: [
-    &#34;# Using Containers&#34;
-   ]
-  },
-  {
-   &#34;cell_type&#34;: &#34;markdown&#34;,
-   &#34;metada...&lt;/p&gt;</summary>
-  </entry>
   
   <entry>
     <id>https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/</id>
     <title type="html">Job Arrays</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:43:16+00:00</updated>
+    <updated>2025-02-15T22:59:09+00:00</updated>
 
     
 
@@ -63,7 +38,7 @@
     <title type="html">Three body</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/three_body/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:43:16+00:00</updated>
+    <updated>2025-02-15T22:59:09+00:00</updated>
 
     
 
@@ -77,77 +52,11 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/guides/ResourceLimits/</id>
-    <title type="html">CPU Limits &amp;amp; Usage</title>
-    <link href="https://rc.davidson.edu/guides/ResourceLimits/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:43:15+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;p&gt;{
- &#34;cells&#34;: [
-  {
-   &#34;cell_type&#34;: &#34;markdown&#34;,
-   &#34;id&#34;: &#34;e0a3db00-adbf-4509-883c-d2a8c050db1b&#34;,
-   &#34;metadata&#34;: {},
-   &#34;source&#34;: [
-    &#34;# CPU Limits &amp;amp; Usage\n&#34;...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/guides/conda/</id>
-    <title type="html">Using Conda</title>
-    <link href="https://rc.davidson.edu/guides/conda/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:43:15+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Using Conda&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Conda&lt;/strong&gt; is the package and environment manager we make available and advocate for the use of on our research clusters. It enables cluster us...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/guides/git/</id>
-    <title type="html">Git &amp; GitHub</title>
-    <link href="https://rc.davidson.edu/guides/git/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:43:15+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Git/Github Tutorial&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Version control&lt;/strong&gt; is a way to track and manage changes to your work. Your work can include any form of document (LaTeX/txt/md) or co...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/guides/jupyterlab/</id>
-    <title type="html">JupyterLab</title>
-    <link href="https://rc.davidson.edu/guides/jupyterlab/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:43:15+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;JupyterLab Guide&lt;/h1&gt;
-&lt;p&gt;Research Computing Department provides &lt;strong&gt;JupyterLab&lt;/strong&gt;, a web-based development platform. It allows you to run various applications utiliz...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
     <id>https://rc.davidson.edu/guides/slurm/advanced-batch-scripting/</id>
     <title type="html">Advanced Batch Scripting</title>
     <link href="https://rc.davidson.edu/guides/slurm/advanced-batch-scripting/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:43:15+00:00</updated>
+    <updated>2025-02-15T22:59:08+00:00</updated>
 
     
 
@@ -172,7 +81,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Jobs &amp;amp; Batch Scripts</title>
     <link href="https://rc.davidson.edu/guides/slurm/basic-usage/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:43:15+00:00</updated>
+    <updated>2025-02-15T22:59:08+00:00</updated>
 
     
 
@@ -193,191 +102,268 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PySCIPOpt/</id>
-    <title type="html">PySCIPOpt</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PySCIPOpt/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/guides/slurm/containers/</id>
+    <title type="html">Using Containers</title>
+    <link href="https://rc.davidson.edu/guides/slurm/containers/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:43:14+00:00</updated>
+    <updated>2025-02-15T22:59:08+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;PySCIPOpt&lt;/h1&gt;
-&lt;p&gt;This project provides an interface from Python to the SCIP Optimization Suite (SCIP-Suite).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/scipopt/PySCIPOpt&#34;&gt;https://github.com/scipopt/PySCIPOpt&lt;/a&gt;
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;metadata&#34;: {},
+   &#34;source&#34;: [
+    &#34;# Using Containers&#34;
+   ]
+  },
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;metada...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/guides/slurm/overview/</id>
+    <title type="html">SLURM</title>
+    <link href="https://rc.davidson.edu/guides/slurm/overview/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T22:59:08+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;SLURM&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;SLURM&lt;/strong&gt; is a job scheduling and resource management system used at Davidson College to facilitate usage of Research Computing resources. &lt;strong&gt;SLURM&lt;/strong&gt;...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/r/Ruby/</id>
+    <title type="html">Ruby</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/r/Ruby/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T22:59:07+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Ruby&lt;/h1&gt;
+&lt;p&gt;Ruby is a dynamic, open source programming language with  a focus on simplicity and productivity. It has an elegant syntax that is  natural to read a...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/r/Rust/</id>
+    <title type="html">Rust</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/r/Rust/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T22:59:07+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Rust&lt;/h1&gt;
+&lt;p&gt;Rust is a systems programming language that runs blazingly fast, prevents segfaults,  and guarantees thread safety.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &amp;lt;https://www.rust-la...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/r/rclone/</id>
+    <title type="html">rclone</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/r/rclone/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T22:59:07+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;rclone&lt;/h1&gt;
+&lt;p&gt;Rclone is a command line program to sync files and directories to and from  a variety of online storage services&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://rclone.org&#34;&gt;https://rclone.org&lt;/a&gt;
 ...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PySlurm/</id>
-    <title type="html">PySlurm</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PySlurm/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/r/re2c/</id>
+    <title type="html">re2c</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/r/re2c/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:43:14+00:00</updated>
+    <updated>2025-02-15T22:59:07+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;PySlurm&lt;/h1&gt;
-&lt;p&gt;The &lt;code&gt;pyslurm&lt;/code&gt; package is a wrapper around the Slurm C-API&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/PySlurm/pyslurm&#34;&gt;https://github.com/PySlurm/pyslurm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
---------|--------...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;re2c&lt;/h1&gt;
+&lt;p&gt;re2c is a free and open-source lexer generator for C and C++. Its main goal is generating fast lexers: at least as fast as their reasonably optimized...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PyTorch-bundle/</id>
-    <title type="html">PyTorch-bundle</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PyTorch-bundle/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/s/</id>
+    <title type="html">List of supported software (s)</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/s/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:43:14+00:00</updated>
+    <updated>2025-02-15T22:59:07+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;PyTorch-bundle&lt;/h1&gt;
-&lt;p&gt;PyTorch with compatible versions of official Torch extensions.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://pytorch.org/&#34;&gt;https://pytorch.org/&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;h1&gt;List of supported software (s)&lt;/h1&gt;
+&lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/s/SAMtools/</id>
+    <title type="html">SAMtools</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/s/SAMtools/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T22:59:07+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;SAMtools&lt;/h1&gt;
+&lt;p&gt;SAM Tools provide various utilities for manipulating alignments in the SAM format,   including sorting, merging, indexing and generating alignmen...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/s/SCIP-Suite/</id>
+    <title type="html">SCIP-Suite</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/s/SCIP-Suite/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T22:59:07+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;SCIP-Suite&lt;/h1&gt;
+&lt;p&gt;SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP)...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/s/SCIP/</id>
+    <title type="html">SCIP</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/s/SCIP/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T22:59:07+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;SCIP&lt;/h1&gt;
+&lt;p&gt;SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It i...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/s/SOCI/</id>
+    <title type="html">SOCI</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/s/SOCI/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T22:59:07+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;SOCI&lt;/h1&gt;
+&lt;p&gt;SOCI is a database access library for C++ that makes the illusion of embedding SQL queries in the  regular C++ code, staying entirely within the Stan...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/s/SQLite/</id>
+    <title type="html">SQLite</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/s/SQLite/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T22:59:07+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;SQLite&lt;/h1&gt;
+&lt;p&gt;SQLite: SQL Database Engine in a C Library&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://www.sqlite.org/&#34;&gt;https://www.sqlite.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+&lt;code&gt;3.33.0&lt;/code&gt; | ``GCCcore/1...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/s/SUNDIALS/</id>
+    <title type="html">SUNDIALS</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/s/SUNDIALS/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T22:59:07+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;SUNDIALS&lt;/h1&gt;
+&lt;p&gt;SUNDIALS: SUite of Nonlinear and DIfferential/ALgebraic Equation Solvers&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://computing.llnl.gov/projects/sundials&#34;&gt;https://computing.llnl.gov/projects/sundials&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | t...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/s/SVG/</id>
+    <title type="html">SVG</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/s/SVG/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T22:59:07+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;SVG&lt;/h1&gt;
+&lt;p&gt;Perl binding for SVG&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://metacpan.org/pod/SVG&#34;&gt;https://metacpan.org/pod/SVG&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;version | versionsuffix | toolchain
----...&lt;/p&gt;</summary>
+--------|---------------|----------
+&lt;code&gt;2.84&lt;/code&gt; | `...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PyTorch/</id>
-    <title type="html">PyTorch</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PyTorch/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/s/SWIG/</id>
+    <title type="html">SWIG</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/s/SWIG/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:43:14+00:00</updated>
+    <updated>2025-02-15T22:59:07+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;PyTorch&lt;/h1&gt;
-&lt;p&gt;Tensors and Dynamic neural networks in Python with strong GPU acceleration. PyTorch is a deep learning framework that puts Python first.&lt;/p&gt;
-&lt;p&gt;*homepag...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;SWIG&lt;/h1&gt;
+&lt;p&gt;SWIG is a software development tool that connects programs written in C and C++ with  a variety of high-level programming languages.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &amp;lt;ht...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PyYAML/</id>
-    <title type="html">PyYAML</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PyYAML/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/s/ScaLAPACK/</id>
+    <title type="html">ScaLAPACK</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/s/ScaLAPACK/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:43:14+00:00</updated>
+    <updated>2025-02-15T22:59:07+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;PyYAML&lt;/h1&gt;
-&lt;p&gt;PyYAML is a YAML parser and emitter for the Python programming language.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/yaml/pyyaml&#34;&gt;https://github.com/yaml/pyyaml&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
--------...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PyZMQ/</id>
-    <title type="html">PyZMQ</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PyZMQ/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:43:14+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PyZMQ&lt;/h1&gt;
-&lt;p&gt;Python bindings for ZeroMQ&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://www.zeromq.org/bindings:python&#34;&gt;https://www.zeromq.org/bindings:python&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
---------|----------
-&lt;code&gt;25.1.1&lt;/code&gt; | ``GCCcore/11....&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PycURL/</id>
-    <title type="html">PycURL</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PycURL/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:43:14+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PycURL&lt;/h1&gt;
-&lt;p&gt;PycURL is a Python interface to libcurl. PycURL can be used to fetch objects identified by a URL  from a Python program, similar to the urllib Pyth...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Pysam/</id>
-    <title type="html">Pysam</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Pysam/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:43:14+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Pysam&lt;/h1&gt;
-&lt;p&gt;Pysam is a python module for reading and manipulating Samfiles.  It&#39;s a lightweight wrapper of the samtools C-API. Pysam also includes an interface ...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Python-bundle-PyPI/</id>
-    <title type="html">Python-bundle-PyPI</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Python-bundle-PyPI/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:43:14+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Python-bundle-PyPI&lt;/h1&gt;
-&lt;p&gt;Bundle of Python packages from PyPI&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://python.org/&#34;&gt;https://python.org/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
---------|----------
-&lt;code&gt;2023.06&lt;/code&gt; | ``GCCcore...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Python-bundle/</id>
-    <title type="html">Python-bundle</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Python-bundle/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:43:14+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Python-bundle&lt;/h1&gt;
-&lt;p&gt;Python distribution with a number of widely used  extensions incl. NumPy, SciPy, Matplotlib, JupyterLab, MPI4PY, ...&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &amp;lt;https://e...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Python/</id>
-    <title type="html">Python</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Python/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:43:14+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Python&lt;/h1&gt;
-&lt;p&gt;Python is a programming language that lets you work more quickly and integrate your systems  more effectively.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://python.org/&#34;&gt;https://python.org/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;ScaLAPACK&lt;/h1&gt;
+&lt;p&gt;The ScaLAPACK (or Scalable LAPACK) library includes a subset of LAPACK routines  redesigned for distributed memory MIMD parallel computers.&lt;/p&gt;
+&lt;p&gt;*ho...&lt;/p&gt;</summary>
   </entry>
   
 </feed>
