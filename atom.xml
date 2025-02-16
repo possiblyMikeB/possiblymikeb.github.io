@@ -4,41 +4,16 @@
   <title type="html">Research Computing</title>
   <link href="https://rc.davidson.edu/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
-  <updated>2025-02-15T23:05:10+00:00</updated>
+  <updated>2025-02-15T23:07:39+00:00</updated>
   <generator uri="https://github.com/maedadev/mkdocs-atom-plugin/" version="0.0.5">MkDocs Atom Plugin</generator>
 
-  
-  <entry>
-    <id>https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/</id>
-    <title type="html">Job Arrays</title>
-    <link href="https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:05:16+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;p&gt;{
- &#34;cells&#34;: [
-  {
-   &#34;cell_type&#34;: &#34;markdown&#34;,
-   &#34;id&#34;: &#34;735352a1&#34;,
-   &#34;metadata&#34;: {},
-   &#34;source&#34;: [
-    &#34;# Job Arrays&#34;
-   ]
-  },
-  {
-   &#34;cell_type&#34;: &#34;code&#34;,...&lt;/p&gt;</summary>
-  </entry>
   
   <entry>
     <id>https://rc.davidson.edu/guides/slurm/job-arrays/three_body/</id>
     <title type="html">Three body</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/three_body/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:16+00:00</updated>
+    <updated>2025-02-15T23:07:45+00:00</updated>
 
     
 
@@ -52,36 +27,11 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/guides/slurm/advanced-batch-scripting/</id>
-    <title type="html">Advanced Batch Scripting</title>
-    <link href="https://rc.davidson.edu/guides/slurm/advanced-batch-scripting/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:05:15+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;p&gt;{
- &#34;cells&#34;: [
-  {
-   &#34;cell_type&#34;: &#34;markdown&#34;,
-   &#34;metadata&#34;: {},
-   &#34;source&#34;: [
-    &#34;# Advanced Batch Scripting&#34;
-   ]
-  },
-  {
-   &#34;cell_type&#34;: &#34;markdown&#34;,
-  ...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
     <id>https://rc.davidson.edu/guides/slurm/basic-usage/</id>
     <title type="html">Jobs &amp;amp; Batch Scripts</title>
     <link href="https://rc.davidson.edu/guides/slurm/basic-usage/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:15+00:00</updated>
+    <updated>2025-02-15T23:07:44+00:00</updated>
 
     
 
@@ -106,7 +56,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Using Containers</title>
     <link href="https://rc.davidson.edu/guides/slurm/containers/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:15+00:00</updated>
+    <updated>2025-02-15T23:07:44+00:00</updated>
 
     
 
@@ -128,10 +78,10 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   
   <entry>
     <id>https://rc.davidson.edu/guides/slurm/overview/</id>
-    <title type="html">SLURM</title>
+    <title type="html">Overview</title>
     <link href="https://rc.davidson.edu/guides/slurm/overview/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:15+00:00</updated>
+    <updated>2025-02-15T23:07:44+00:00</updated>
 
     
 
@@ -142,230 +92,275 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/r/RStudio-Server/</id>
-    <title type="html">RStudio-Server</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/r/RStudio-Server/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/</id>
+    <title type="html">Job Arrays</title>
+    <link href="https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:44+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;RStudio-Server&lt;/h1&gt;
-&lt;p&gt;This is the RStudio Server version. RStudio is a set of integrated tools designed to help you be more productive with R.  The server can be...&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;id&#34;: &#34;735352a1&#34;,
+   &#34;metadata&#34;: {},
+   &#34;source&#34;: [
+    &#34;# Job Arrays&#34;
+   ]
+  },
+  {
+   &#34;cell_type&#34;: &#34;code&#34;,...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/r/RapidJSON/</id>
-    <title type="html">RapidJSON</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/r/RapidJSON/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/guides/ResourceLimits/</id>
+    <title type="html">CPU Limits &amp;amp; Usage</title>
+    <link href="https://rc.davidson.edu/guides/ResourceLimits/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:43+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;RapidJSON&lt;/h1&gt;
-&lt;p&gt;A fast JSON parser/generator for C++ with both SAX/DOM style API&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://rapidjson.org&#34;&gt;https://rapidjson.org&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
---------|----------
-`...&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;id&#34;: &#34;e0a3db00-adbf-4509-883c-d2a8c050db1b&#34;,
+   &#34;metadata&#34;: {},
+   &#34;source&#34;: [
+    &#34;# CPU Limits &amp;amp; Usage\n&#34;...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/r/Ruby/</id>
-    <title type="html">Ruby</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/r/Ruby/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/guides/conda/</id>
+    <title type="html">Using Conda</title>
+    <link href="https://rc.davidson.edu/guides/conda/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:43+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;Ruby&lt;/h1&gt;
-&lt;p&gt;Ruby is a dynamic, open source programming language with  a focus on simplicity and productivity. It has an elegant syntax that is  natural to read a...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;Using Conda&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Conda&lt;/strong&gt; is the package and environment manager we make available and advocate for the use of on our research clusters. It enables cluster us...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/r/Rust/</id>
-    <title type="html">Rust</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/r/Rust/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/guides/git/</id>
+    <title type="html">Git &amp; GitHub</title>
+    <link href="https://rc.davidson.edu/guides/git/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:43+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;Rust&lt;/h1&gt;
-&lt;p&gt;Rust is a systems programming language that runs blazingly fast, prevents segfaults,  and guarantees thread safety.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &amp;lt;https://www.rust-la...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;Git/Github Tutorial&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Version control&lt;/strong&gt; is a way to track and manage changes to your work. Your work can include any form of document (LaTeX/txt/md) or co...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/r/rclone/</id>
-    <title type="html">rclone</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/r/rclone/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/guides/jupyterlab/</id>
+    <title type="html">JupyterLab</title>
+    <link href="https://rc.davidson.edu/guides/jupyterlab/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:43+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;rclone&lt;/h1&gt;
-&lt;p&gt;Rclone is a command line program to sync files and directories to and from  a variety of online storage services&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://rclone.org&#34;&gt;https://rclone.org&lt;/a&gt;
-...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;JupyterLab Tutorial&lt;/h1&gt;
+&lt;p&gt;Research Computing Department provides &lt;strong&gt;JupyterLab&lt;/strong&gt;, a web-based development platform. It allows you to run various applications uti...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/r/re2c/</id>
-    <title type="html">re2c</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/r/re2c/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/guides/slurm/advanced-batch-scripting/</id>
+    <title type="html">Advanced Batch Scripting</title>
+    <link href="https://rc.davidson.edu/guides/slurm/advanced-batch-scripting/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:43+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;re2c&lt;/h1&gt;
-&lt;p&gt;re2c is a free and open-source lexer generator for C and C++. Its main goal is generating fast lexers: at least as fast as their reasonably optimized...&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;metadata&#34;: {},
+   &#34;source&#34;: [
+    &#34;# Advanced Batch Scripting&#34;
+   ]
+  },
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+  ...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/s/</id>
-    <title type="html">List of supported software (s)</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/s/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/PCRE/</id>
+    <title type="html">PCRE</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/PCRE/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:42+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;List of supported software (s)&lt;/h1&gt;
-&lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;PCRE&lt;/h1&gt;
+&lt;p&gt;The PCRE library is a set of functions that implement regular expression  pattern matching using the same syntax and semantics as Perl 5.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/s/SAMtools/</id>
-    <title type="html">SAMtools</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/s/SAMtools/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/PCRE2/</id>
+    <title type="html">PCRE2</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/PCRE2/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:42+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;SAMtools&lt;/h1&gt;
-&lt;p&gt;SAM Tools provide various utilities for manipulating alignments in the SAM format,   including sorting, merging, indexing and generating alignmen...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;PCRE2&lt;/h1&gt;
+&lt;p&gt;The PCRE library is a set of functions that implement regular expression pattern matching using the same syntax  and semantics as Perl 5.&lt;/p&gt;
+&lt;p&gt;*homepage...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/s/SCIP-Suite/</id>
-    <title type="html">SCIP-Suite</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/s/SCIP-Suite/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/PMIx/</id>
+    <title type="html">PMIx</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/PMIx/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:42+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;SCIP-Suite&lt;/h1&gt;
-&lt;p&gt;SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP)...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;PMIx&lt;/h1&gt;
+&lt;p&gt;Process Management for Exascale Environments PMI Exascale (PMIx) represents an attempt to provide an extended version of the PMI standard specificall...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/s/SCIP/</id>
-    <title type="html">SCIP</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/s/SCIP/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/PROJ/</id>
+    <title type="html">PROJ</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/PROJ/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:42+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;SCIP&lt;/h1&gt;
-&lt;p&gt;SCIP is currently one of the fastest non-commercial solvers for mixed integer programming (MIP) and mixed integer nonlinear programming (MINLP). It i...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;PROJ&lt;/h1&gt;
+&lt;p&gt;Program proj is a standard Unix filter function which converts geographic longitude and latitude coordinates into cartesian coordinates&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: ...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/s/SOCI/</id>
-    <title type="html">SOCI</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/s/SOCI/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/Pango/</id>
+    <title type="html">Pango</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/Pango/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:42+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;SOCI&lt;/h1&gt;
-&lt;p&gt;SOCI is a database access library for C++ that makes the illusion of embedding SQL queries in the  regular C++ code, staying entirely within the Stan...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;Pango&lt;/h1&gt;
+&lt;p&gt;Pango is a library for laying out and rendering of text, with an emphasis on internationalization. Pango can be used anywhere that text layout is ne...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/s/SQLite/</id>
-    <title type="html">SQLite</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/s/SQLite/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/Perl/</id>
+    <title type="html">Perl</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/Perl/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:42+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;SQLite&lt;/h1&gt;
-&lt;p&gt;SQLite: SQL Database Engine in a C Library&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://www.sqlite.org/&#34;&gt;https://www.sqlite.org/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
---------|----------
-&lt;code&gt;3.33.0&lt;/code&gt; | ``GCCcore/1...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;Perl&lt;/h1&gt;
+&lt;p&gt;Larry Wall&#39;s Practical Extraction and Report Language  This is a minimal build without any modules. Should only be used for build dependencies.&lt;/p&gt;
+&lt;p&gt;*hom...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/s/SUNDIALS/</id>
-    <title type="html">SUNDIALS</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/s/SUNDIALS/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/Pillow-SIMD/</id>
+    <title type="html">Pillow-SIMD</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/Pillow-SIMD/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:42+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;SUNDIALS&lt;/h1&gt;
-&lt;p&gt;SUNDIALS: SUite of Nonlinear and DIfferential/ALgebraic Equation Solvers&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://computing.llnl.gov/projects/sundials&#34;&gt;https://computing.llnl.gov/projects/sundials&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | t...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;Pillow-SIMD&lt;/h1&gt;
+&lt;p&gt;Pillow is the &#39;friendly PIL fork&#39; by Alex Clark and Contributors.  PIL is the Python Imaging Library by Fredrik Lundh and Contributors.&lt;/p&gt;
+&lt;p&gt;*home...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/s/SVG/</id>
-    <title type="html">SVG</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/s/SVG/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/Pillow/</id>
+    <title type="html">Pillow</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/Pillow/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:05:14+00:00</updated>
+    <updated>2025-02-15T23:07:42+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;SVG&lt;/h1&gt;
-&lt;p&gt;Perl binding for SVG&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://metacpan.org/pod/SVG&#34;&gt;https://metacpan.org/pod/SVG&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | versionsuffix | toolchain
---------|---------------|----------
-&lt;code&gt;2.84&lt;/code&gt; | `...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;Pillow&lt;/h1&gt;
+&lt;p&gt;Pillow is the &#39;friendly PIL fork&#39; by Alex Clark and Contributors.  PIL is the Python Imaging Library by Fredrik Lundh and Contributors.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/PostgreSQL/</id>
+    <title type="html">PostgreSQL</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/PostgreSQL/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:07:42+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;PostgreSQL&lt;/h1&gt;
+&lt;p&gt;PostgreSQL is a powerful, open source object-relational database system.  It is fully ACID compliant, has full support for foreign keys,  joins...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/Prometheus-Alertmanager/</id>
+    <title type="html">Prometheus-Alertmanager</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/Prometheus-Alertmanager/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:07:42+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Prometheus-Alertmanager&lt;/h1&gt;
+&lt;p&gt;The Alertmanager handles alerts sent by client applications such as the Prometheus server.  It takes care of deduplicating, groupi...&lt;/p&gt;</summary>
   </entry>
   
 </feed>
