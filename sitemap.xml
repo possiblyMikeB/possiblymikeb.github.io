@@ -13,11 +13,7 @@
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/conda/</loc>
-         <lastmod>2025-02-16</lastmod>
-    </url>
-    <url>
-         <loc>https://rc.davidson.edu/docs/git/</loc>
+         <loc>https://rc.davidson.edu/docs/globus/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
@@ -25,11 +21,11 @@
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/modules/</loc>
+         <loc>https://rc.davidson.edu/docs/policy/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/policy/</loc>
+         <loc>https://rc.davidson.edu/docs/resources/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
@@ -41,1507 +37,1515 @@
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/development/</loc>
-         <lastmod>2025-02-16</lastmod>
-    </url>
-    <url>
          <loc>https://rc.davidson.edu/docs/jupyterhub/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/jupyterlab/</loc>
+         <loc>https://rc.davidson.edu/docs/software/modules/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/slurm/</loc>
+         <loc>https://rc.davidson.edu/docs/software/policy/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/ANTLR/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/ANTLR/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/ATK/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/ATK/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/Abseil/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/Abseil/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/Armadillo/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/Armadillo/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/Arrow/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/Arrow/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/Autoconf/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/Autoconf/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/Automake/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/Automake/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/Autotools/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/Autotools/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/aiohttp/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/aiohttp/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/ant/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/ant/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/arpack-ng/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/arpack-ng/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/arrow-R/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/arrow-R/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/at-spi2-atk/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/at-spi2-atk/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/a/at-spi2-core/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/a/at-spi2-core/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/BEDTools/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/BEDTools/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/BLIS/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/BLIS/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/BamTools/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/BamTools/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/Bazel/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/Bazel/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/BeautifulSoup/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/BeautifulSoup/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/Biopython/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/Biopython/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/Bison/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/Bison/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/Boost/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/Boost/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/Brotli/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/Brotli/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/Brunsli/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/Brunsli/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/binutils/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/binutils/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/bokeh/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/bokeh/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/b/buildenv/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/b/buildenv/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/CERTMgr/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/CERTMgr/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/CFITSIO/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/CFITSIO/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/CFSSL/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/CFSSL/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/CLHEP/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/CLHEP/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/CMake/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/CMake/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/CPLEX/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/CPLEX/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/CUDA/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/CUDA/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/CUDAcore/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/CUDAcore/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/CaDiCaL/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/CaDiCaL/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/Catch2/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/Catch2/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/Check/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/Check/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/Clang/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/Clang/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/Cython/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/Cython/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/cURL/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/cURL/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/cairo/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/cairo/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/canu/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/canu/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/cffi/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/cffi/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/code-cli/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/code-cli/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/code-server/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/code-server/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/configurable-http-proxy/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/configurable-http-proxy/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/cppy/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/cppy/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/cryptography/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/cryptography/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/cuDNN/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/cuDNN/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/c/cutadapt/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/c/cutadapt/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/d/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/d/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/d/DB/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/d/DB/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/d/DBeaver-Enterprise/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/d/DBeaver-Enterprise/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/d/DavidsonCourse/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/d/DavidsonCourse/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/d/DavidsonJupyter/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/d/DavidsonJupyter/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/d/Doxygen/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/d/Doxygen/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/d/dask/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/d/dask/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/d/deepTools/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/d/deepTools/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/d/dill/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/d/dill/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/d/double-conversion/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/d/double-conversion/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/e/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/e/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/e/EasyBuild/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/e/EasyBuild/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/e/Eigen/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/e/Eigen/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/e/Emacs/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/e/Emacs/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/e/etcd/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/e/etcd/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/e/expecttest/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/e/expecttest/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/FFTW.MPI/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/FFTW.MPI/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/FFTW/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/FFTW/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/FFmpeg/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/FFmpeg/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/FLAC/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/FLAC/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/FLTK/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/FLTK/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/FastQC/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/FastQC/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/FlexiBLAS/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/FlexiBLAS/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/FriBidi/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/FriBidi/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/ffnvcodec/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/ffnvcodec/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/flatbuffers/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/flatbuffers/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/flit/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/flit/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/fontconfig/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/fontconfig/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/foss/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/foss/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/freeglut/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/freeglut/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/f/freetype/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/f/freetype/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GCC/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GCC/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GCCcore/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GCCcore/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GDAL/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GDAL/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GDRCopy/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GDRCopy/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GEOS/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GEOS/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GL2PS/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GL2PS/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GLPK/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GLPK/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GLib/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GLib/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GMP/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GMP/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GObject-Introspection/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GObject-Introspection/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GSL/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GSL/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GST-plugins-bad/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GST-plugins-bad/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GST-plugins-base/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GST-plugins-base/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GStreamer/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GStreamer/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GTK2/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GTK2/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GTK3/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GTK3/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GTK4/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GTK4/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GaussView/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GaussView/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/Gaussian/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/Gaussian/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/Gdk-Pixbuf/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/Gdk-Pixbuf/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/Geant4-data/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/Geant4-data/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/Geant4/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/Geant4/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/Ghostscript/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/Ghostscript/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/Go/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/Go/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/Graphene/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/Graphene/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/GraphicsMagick/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/GraphicsMagick/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/Gurobi/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/Gurobi/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/gawk/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/gawk/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/gcccuda/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/gcccuda/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/gettext/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/gettext/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/gfbf/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/gfbf/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/giflib/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/giflib/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/gnuplot/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/gnuplot/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/gompi/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/gompi/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/googletest/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/googletest/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/gperf/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/gperf/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/gperftools/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/gperftools/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/g/graphite2/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/g/graphite2/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/h/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/h/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/h/HDF/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/h/HDF/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/h/HDF5/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/h/HDF5/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/h/HarfBuzz/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/h/HarfBuzz/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/h/Highway/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/h/Highway/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/h/h5py/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/h/h5py/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/h/hatchling/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/h/hatchling/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/h/help2man/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/h/help2man/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/h/hypothesis/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/h/hypothesis/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/ICU/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/ICU/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/IPython/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/IPython/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/IRkernel/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/IRkernel/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/ISA-L/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/ISA-L/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/ImageMagick/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/ImageMagick/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/Imath/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/Imath/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/Ipopt/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/Ipopt/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/iimpi/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/iimpi/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/imageio/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/imageio/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/imkl-FFTW/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/imkl-FFTW/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/imkl/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/imkl/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/impi/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/impi/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/intel-compilers/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/intel-compilers/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/intel/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/intel/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/i/intltool/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/i/intltool/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/JasPer/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/JasPer/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/Java/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/Java/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/Jellyfish/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/Jellyfish/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/JsonCpp/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/JsonCpp/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/Julia/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/Julia/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/Jupyter-bundle/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/Jupyter-bundle/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/JupyterHub/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/JupyterHub/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/JupyterLab/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/JupyterLab/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/JupyterNotebook/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/JupyterNotebook/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/jbigkit/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/jbigkit/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/json-c/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/json-c/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/jupyter-contrib-nbextensions/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/jupyter-contrib-nbextensions/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/jupyter-matlab-proxy/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/jupyter-matlab-proxy/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/jupyter-resource-usage/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/jupyter-resource-usage/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/jupyter-server-proxy/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/jupyter-server-proxy/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/jupyter-server/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/jupyter-server/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/j/jupyterlmod/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/j/jupyterlmod/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/LAME/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/LAME/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/LAPACK/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/LAPACK/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/LERC/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/LERC/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/LLVM/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/LLVM/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/LMDB/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/LMDB/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/Leptonica/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/Leptonica/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/LibTIFF/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/LibTIFF/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/LittleCMS/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/LittleCMS/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/Lua/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/Lua/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libarchive/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libarchive/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libcerf/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libcerf/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libdeflate/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libdeflate/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libepoxy/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libepoxy/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libfabric/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libfabric/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libffi/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libffi/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libgd/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libgd/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libgeotiff/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libgeotiff/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libgit2/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libgit2/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libiconv/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libiconv/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libjpeg-turbo/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libjpeg-turbo/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libogg/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libogg/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libopus/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libopus/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libreadline/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libreadline/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libsndfile/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libsndfile/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libsodium/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libsodium/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libtirpc/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libtirpc/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libtool/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libtool/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libunwind/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libunwind/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libvorbis/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libvorbis/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libwebp/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libwebp/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/libyaml/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/libyaml/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/l/lxml/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/l/lxml/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/MATLAB/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/MATLAB/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/METIS/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/METIS/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/MPFR/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/MPFR/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/MUSCLE/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/MUSCLE/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/Mako/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/Mako/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/Mamba/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/Mamba/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/Mathematica/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/Mathematica/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/Meson/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/Meson/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/MinIO-Client/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/MinIO-Client/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/MinIO/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/MinIO/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/Miniconda3/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/Miniconda3/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/magma/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/magma/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/makeinfo/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/makeinfo/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/matlab-proxy/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/matlab-proxy/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/matplotlib/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/matplotlib/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/maturin/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/maturin/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/m/meson-python/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/m/meson-python/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/NASM/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/NASM/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/NCCL/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/NCCL/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/NLopt/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/NLopt/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/NSPR/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/NSPR/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/NSS/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/NSS/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/NVHPC/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/NVHPC/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/NetLogo/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/NetLogo/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/Ninja/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/Ninja/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/nbclassic/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/nbclassic/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/ncurses/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/ncurses/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/netCDF/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/netCDF/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/networkx/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/networkx/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/nlohmann_json/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/nlohmann_json/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/nodejs/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/nodejs/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/n/nsync/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/n/nsync/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/o/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/o/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/o/OAuth2-Proxy/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/o/OAuth2-Proxy/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/o/Octave/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/o/Octave/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/o/OpenBLAS/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/o/OpenBLAS/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/o/OpenCV/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/o/OpenCV/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/o/OpenEXR/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/o/OpenEXR/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/o/OpenJPEG/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/o/OpenJPEG/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/o/OpenMPI/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/o/OpenMPI/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/o/OpenPGM/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/o/OpenPGM/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/o/OpenSSL/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/o/OpenSSL/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PCRE/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PCRE/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PCRE2/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PCRE2/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PMIx/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PMIx/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PROJ/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PROJ/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Pango/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Pango/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Perl/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Perl/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Pillow-SIMD/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Pillow-SIMD/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Pillow/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Pillow/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PostgreSQL/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PostgreSQL/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Prometheus-Alertmanager/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Prometheus-Alertmanager/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Prometheus-BlackBoxExporter/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Prometheus-BlackBoxExporter/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Prometheus-NodeExporter/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Prometheus-NodeExporter/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Prometheus/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Prometheus/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PyCairo/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PyCairo/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PyGObject/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PyGObject/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PySCIPOpt/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PySCIPOpt/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PySlurm/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PySlurm/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PyTorch-bundle/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PyTorch-bundle/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PyTorch/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PyTorch/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PyYAML/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PyYAML/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PyZMQ/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PyZMQ/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/PycURL/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/PycURL/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Pysam/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Pysam/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Python-bundle-PyPI/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Python-bundle-PyPI/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Python-bundle/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Python-bundle/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/Python/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/Python/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/patchelf/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/patchelf/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/pgAdmin4/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/pgAdmin4/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/pigz/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/pigz/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/pixman/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/pixman/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/pkg-config/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/pkg-config/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/pkgconf/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/pkgconf/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/pkgconfig/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/pkgconfig/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/plotly.py/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/plotly.py/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/pocl/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/pocl/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/poetry/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/poetry/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/poppler/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/poppler/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/protobuf-python/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/protobuf-python/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/protobuf/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/protobuf/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/pyBigWig/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/pyBigWig/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/pybind11/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/pybind11/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/pytesseract/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/pytesseract/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/p/python-isal/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/p/python-isal/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/q/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/q/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/q/Qhull/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/q/Qhull/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/q/Qt5/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/q/Qt5/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/q/Quarto/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/q/Quarto/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/q/qrupdate/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/q/qrupdate/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/R-bundle-Bioconductor/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/R-bundle-Bioconductor/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/R-bundle-CRAN/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/R-bundle-CRAN/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/R-bundle-Davidson/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/R-bundle-Davidson/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/R/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/R/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/RE2/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/RE2/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/RStudio-Server/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/RStudio-Server/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/RapidJSON/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/RapidJSON/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/Ruby/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/Ruby/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/Rust/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/Rust/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/rclone/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/rclone/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/r/re2c/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/r/re2c/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SAMtools/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SAMtools/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SCIP-Suite/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SCIP-Suite/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SCIP/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SCIP/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SOCI/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SOCI/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SQLite/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SQLite/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SUNDIALS/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SUNDIALS/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SVG/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SVG/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SWIG/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SWIG/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/ScaLAPACK/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/ScaLAPACK/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SciPy-bundle/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SciPy-bundle/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SentencePiece/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SentencePiece/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SoPlex/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SoPlex/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/Spack/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/Spack/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/Stata/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/Stata/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/SuiteSparse/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/SuiteSparse/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/Szip/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/Szip/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/scikit-bio/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/scikit-bio/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/scikit-build/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/scikit-build/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/scikit-image/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/scikit-image/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/scikit-learn/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/scikit-learn/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/setuptools-rust/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/setuptools-rust/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/s/snappy/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/s/snappy/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/t/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/t/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/t/TensorFlow/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/t/TensorFlow/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/t/Tk/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/t/Tk/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/t/Tkinter/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/t/Tkinter/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/t/TurboVNC/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/t/TurboVNC/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/t/tbb/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/t/tbb/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/t/tensorboard/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/t/tensorboard/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/t/tesseract/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/t/tesseract/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/t/texlive/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/t/texlive/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/t/tornado/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/t/tornado/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/t/tqdm/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/t/tqdm/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/u/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/u/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/u/UCC/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/u/UCC/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/u/UCX-CUDA/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/u/UCX-CUDA/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/u/UCX/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/u/UCX/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/u/UDUNITS/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/u/UDUNITS/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/u/utf8proc/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/u/utf8proc/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/v/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/v/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/v/VirtualGL/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/v/VirtualGL/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/v/virtualenv/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/v/virtualenv/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/w/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/w/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/w/Wayland/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/w/Wayland/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/x/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/x/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/x/X11/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/x/X11/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/x/Xerces-C%2B%2B/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/x/Xerces-C%2B%2B/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/x/x264/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/x/x264/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/x/x265/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/x/x265/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/x/xorg-macros/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/x/xorg-macros/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/x/xprop/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/x/xprop/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/y/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/y/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/y/Yasm/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/y/Yasm/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/y/yaml-cpp/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/y/yaml-cpp/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/z/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/z/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/z/Z3/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/z/Z3/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/z/ZIMPL/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/z/ZIMPL/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/docs/software/z/ZeroMQ/</loc>
+         <loc>https://rc.davidson.edu/docs/software/catalog/z/ZeroMQ/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/tutorials/ResourceLimits/</loc>
+         <loc>https://rc.davidson.edu/guides/ResourceLimits/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/tutorials/slurm/advanced-batch-scripting/</loc>
+         <loc>https://rc.davidson.edu/guides/conda/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/tutorials/slurm/basic-usage/</loc>
+         <loc>https://rc.davidson.edu/guides/git/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/tutorials/slurm/containers/</loc>
+         <loc>https://rc.davidson.edu/guides/jupyterlab/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/tutorials/slurm/job-arrays/job-arrays/</loc>
+         <loc>https://rc.davidson.edu/guides/slurm/advanced-batch-scripting/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
     <url>
-         <loc>https://rc.davidson.edu/tutorials/slurm/job-arrays/three_body/</loc>
+         <loc>https://rc.davidson.edu/guides/slurm/basic-usage/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://rc.davidson.edu/guides/slurm/containers/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/</loc>
+         <lastmod>2025-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://rc.davidson.edu/guides/slurm/job-arrays/three_body/</loc>
          <lastmod>2025-02-16</lastmod>
     </url>
 </urlset>

@@ -1,0 +1,1281 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+        <meta name="author" content="Davidson College T&I">
+      
+      
+        <link rel="canonical" href="https://rc.davidson.edu/docs/software/modules/">
+      
+      
+        <link rel="prev" href="../../policy/">
+      
+      
+        <link rel="next" href="../catalog/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.4">
+    
+    
+      
+        <title>Environment Modules - Research Computing</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.8608ea7d.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#modules-and-easybuild" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Research Computing" class="md-header__button md-logo" aria-label="Research Computing" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.437.001Q9.89.009 9.301.076c-4.786.54-7.595 4.525-7.758 9.357C.423 11.63.094 14.213.821 16.74c1.392 4.841 6.201 7.767 11.143 7.187l.906-.107c4.944.327 5.999-1.021 7.182-4.308.125-.27.305-.768.568-1.57.007-.037.016-.076.021-.096.788-2.147.903-4.57.24-6.875a10 10 0 0 0-.272-.81c-.03-.19-.024-.42.009-.599.29-.474.648-.83 1.076-1.097l.272-1.871c.287-.322.177-.6.19-1.058.166-.08.258-.214.327-.43.077-.237.447-.686.861-1.034.064-.188.224-.572.222-.893-1.984.227-3.23.608-4.226-.61l-.53-.208c-.24-.372-.67-.584-.978-.95l-.35 1.21c-.43-.265-2.742-2.688-7.045-2.62m.14.795c2.59.036 4.962 1.344 6.207 2.28l-.95.354-.596-.382-.27.787v.325l-.733 1.762-.08-.026.379-1.573.57-1.517-.191-.163-.84.92c-.18.979-.09 2.358-.541 2.93.14-1.15.34-2.155.352-3.498l-.488-.162c-.113.594-.265 1.275-.382 1.652l.163-1.706-.621.405v.976l-.163-.541-.056-.976-.216-.03-.162.625c.028.27-.015.542.216.813l.056 2.06.133.246-.243 1.165.027-1.139-.08-.08-.163-2.007-.271-1.085-.435-.27-.163-.46-.46-.03 1.03 3.69.08 1.109c-.117-.526-.112-1.1-.567-1.49.045-.553-.036-1.093-.706-1.573l-.976-2.005c-.033-.237-.366-.276-.597-.381-.07.319-.13.642.082 1.032.488.775.976 1.555 1.464 1.978l.027.949c-.16-.875-.602-1.347-.76-1.219-.005-.713-.79-.98-1.245-1.437l-.056-.786-.27-.056c.17.532-.217.57.542 1.626l.027.381c-.29-.196-.578-.563-.867-.975l-.352-.624c.038.427-.175.523.134 1.274.454.395.864.974 1.383 1.112 0 0 .109.19 0 .19-.108 0-.325-.084-.325-.084-.3-.137-.585-.259-1.165-.677l-.597-1.762-.272-.053.056.949.242.107.027.623c.106.37.227.517.408.462-.101.124-.22.15-.461.136-.2-.378-.324-.745-.733-1.192l-.27-.787-.162.163a2.2 2.2 0 0 0 0 .976c-.264-.157-.656-.592-1.122-.819C6.105 1.513 8.469.832 10.327.798q.126-.002.25-.002m7.553 2.188.517.171 1.514.864 2.146.018c-.615.242-1.373.525-1.858.672l-.613-.018c-.485-.414-.874-.612-1.309-.875-.526.551-.837 1.033-1.01 1.736l.152-1.19.52-1.17zm-13.577.331.547 1.09.026.243-.298-.107-.27-.623-.298.215-.216-.128q.235-.369.51-.69zm3.519 2.309c1.613-.037 1.868 1.303 2.127 2.543v2.223c.186.019.567 1.135.488 1.49-.045.204.488 1.422.45 1.426.288.278.235.248.465.424.316.243.602 1.134.426 1.264-.167.124.22.4.312.6.566.506.987 1.013.978 1.52l.27.487.514.08.136.192.65.08c.375-.08.32-.485.435-.76.022-.278-.057-.598-.461-.949.021-.421.074-.836-.325-1.327.056-.503-.311-.92-.598-1.355-.034-.373-.196-.883-.32-1.378-.06-.244-.089-.497-.138-.738-.181-1.674.058-1.862.133-2.765.618-.93.943-1.376 1.493-1.573l.704.87c.347.631.198 1.44 1.058 1.599l.022.021c.439-.396 1.02-.383 1.493-.395l-.057.187c-.57-.06-1.035-.074-1.42.216l.383.374c.412-.536.98-.5 1.539-.52l.006.206c-.604-.08-1.181.021-1.494.362l.123.117h.005c.465-.363 1.022-.383 1.549-.39l-.104.184c-.53.044-.893.008-1.272.23q.44.044.88.085l.11.243.676.056c.12.03.215.042.302.045q.124.33.224.674a10 10 0 0 1 .058 5.27c-1.356 3.64-2.797 4.614-5.729 4.418-3.06-.205-5.53-3.605-7.706-8.264-.475-1.292-1.638-2.11-2.313-1.42-3.073 3.055.394 8.49 2.1 9.801a16.3 16.3 0 0 0 2.87 1.67c-3.38-.563-6.27-2.914-7.245-6.308-1.177-4.092.77-8.374 4.486-10.423l.014-.006c.694-.259 1.251-.376 1.703-.386m10.22 2.04c.293.044.838.365 1.136.663.09.243-.135.353-.12.496.008.023.004.031.003.032q0-.017-.003-.032c-.023-.072-.42-.56-1.016-1.16zm1.804 2.18c-.003.254-.083.341-.192.475-.111.009-.39-.075-.512-.25.185-.212.469-.21.704-.224zm-2.834.172c-.059.07-.086.157-.156.305.092-.14.146-.2.207-.244zm.141.176c-.225.063-.386.418-.611.92.24-.296.406-.716.744-.85zm-11.84 2.91.054 1.055-1.653.949-.027-.786c.689.179 1.147-.56 1.627-1.219zm.734 2.25.242.623-2.087 1.138-.299-.706c2.09-.764 1.731-.759 2.144-1.056zm.757 1.436.272.461c-.787.389-1.435.912-2.005 1.517l-.435-.866c.789-.24 1.53-.572 2.168-1.112m1.005 1.301.46.434c-.36.81-1.106 1.312-1.817 1.843l-.73-.84c.716-.469 1.626-.84 2.087-1.437m1.539 1.503c.072.432-.222 1.073-1.214 2.021-.386-.174-.785-.336-1.032-.65 1.607-.814 2.02-1.253 2.139-1.468.042-.006.112.032.107.097m1.01.667c.036.382-.041.829.188 1.082l.216.056c-.113.47-.34.821-.325 1.291-.857-.208-.951-.297-1.274-.504.996-1.549 1.186-1.913 1.194-1.925zm1.407.784 1.058 1.22c-.106.584-.097.933.299 1.085-.599-.033-1.186-.04-1.68-.344.43-.637.423-1.208.323-1.961m5.325.475c.307.467.348.706.655.813-.405.393-.587.47-1.063.65.149-.303 0-.728-.134-1.244-.1-.192.4-.176.542-.219m-2.993.284c1.786.534 1.18.872 1.729 1.405-.472.1-.904.205-1.656.163.555-.411.301-.87-.073-1.568"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Research Computing
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Environment Modules
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Research Computing" class="md-nav__button md-logo" aria-label="Research Computing" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10.437.001Q9.89.009 9.301.076c-4.786.54-7.595 4.525-7.758 9.357C.423 11.63.094 14.213.821 16.74c1.392 4.841 6.201 7.767 11.143 7.187l.906-.107c4.944.327 5.999-1.021 7.182-4.308.125-.27.305-.768.568-1.57.007-.037.016-.076.021-.096.788-2.147.903-4.57.24-6.875a10 10 0 0 0-.272-.81c-.03-.19-.024-.42.009-.599.29-.474.648-.83 1.076-1.097l.272-1.871c.287-.322.177-.6.19-1.058.166-.08.258-.214.327-.43.077-.237.447-.686.861-1.034.064-.188.224-.572.222-.893-1.984.227-3.23.608-4.226-.61l-.53-.208c-.24-.372-.67-.584-.978-.95l-.35 1.21c-.43-.265-2.742-2.688-7.045-2.62m.14.795c2.59.036 4.962 1.344 6.207 2.28l-.95.354-.596-.382-.27.787v.325l-.733 1.762-.08-.026.379-1.573.57-1.517-.191-.163-.84.92c-.18.979-.09 2.358-.541 2.93.14-1.15.34-2.155.352-3.498l-.488-.162c-.113.594-.265 1.275-.382 1.652l.163-1.706-.621.405v.976l-.163-.541-.056-.976-.216-.03-.162.625c.028.27-.015.542.216.813l.056 2.06.133.246-.243 1.165.027-1.139-.08-.08-.163-2.007-.271-1.085-.435-.27-.163-.46-.46-.03 1.03 3.69.08 1.109c-.117-.526-.112-1.1-.567-1.49.045-.553-.036-1.093-.706-1.573l-.976-2.005c-.033-.237-.366-.276-.597-.381-.07.319-.13.642.082 1.032.488.775.976 1.555 1.464 1.978l.027.949c-.16-.875-.602-1.347-.76-1.219-.005-.713-.79-.98-1.245-1.437l-.056-.786-.27-.056c.17.532-.217.57.542 1.626l.027.381c-.29-.196-.578-.563-.867-.975l-.352-.624c.038.427-.175.523.134 1.274.454.395.864.974 1.383 1.112 0 0 .109.19 0 .19-.108 0-.325-.084-.325-.084-.3-.137-.585-.259-1.165-.677l-.597-1.762-.272-.053.056.949.242.107.027.623c.106.37.227.517.408.462-.101.124-.22.15-.461.136-.2-.378-.324-.745-.733-1.192l-.27-.787-.162.163a2.2 2.2 0 0 0 0 .976c-.264-.157-.656-.592-1.122-.819C6.105 1.513 8.469.832 10.327.798q.126-.002.25-.002m7.553 2.188.517.171 1.514.864 2.146.018c-.615.242-1.373.525-1.858.672l-.613-.018c-.485-.414-.874-.612-1.309-.875-.526.551-.837 1.033-1.01 1.736l.152-1.19.52-1.17zm-13.577.331.547 1.09.026.243-.298-.107-.27-.623-.298.215-.216-.128q.235-.369.51-.69zm3.519 2.309c1.613-.037 1.868 1.303 2.127 2.543v2.223c.186.019.567 1.135.488 1.49-.045.204.488 1.422.45 1.426.288.278.235.248.465.424.316.243.602 1.134.426 1.264-.167.124.22.4.312.6.566.506.987 1.013.978 1.52l.27.487.514.08.136.192.65.08c.375-.08.32-.485.435-.76.022-.278-.057-.598-.461-.949.021-.421.074-.836-.325-1.327.056-.503-.311-.92-.598-1.355-.034-.373-.196-.883-.32-1.378-.06-.244-.089-.497-.138-.738-.181-1.674.058-1.862.133-2.765.618-.93.943-1.376 1.493-1.573l.704.87c.347.631.198 1.44 1.058 1.599l.022.021c.439-.396 1.02-.383 1.493-.395l-.057.187c-.57-.06-1.035-.074-1.42.216l.383.374c.412-.536.98-.5 1.539-.52l.006.206c-.604-.08-1.181.021-1.494.362l.123.117h.005c.465-.363 1.022-.383 1.549-.39l-.104.184c-.53.044-.893.008-1.272.23q.44.044.88.085l.11.243.676.056c.12.03.215.042.302.045q.124.33.224.674a10 10 0 0 1 .058 5.27c-1.356 3.64-2.797 4.614-5.729 4.418-3.06-.205-5.53-3.605-7.706-8.264-.475-1.292-1.638-2.11-2.313-1.42-3.073 3.055.394 8.49 2.1 9.801a16.3 16.3 0 0 0 2.87 1.67c-3.38-.563-6.27-2.914-7.245-6.308-1.177-4.092.77-8.374 4.486-10.423l.014-.006c.694-.259 1.251-.376 1.703-.386m10.22 2.04c.293.044.838.365 1.136.663.09.243-.135.353-.12.496.008.023.004.031.003.032q0-.017-.003-.032c-.023-.072-.42-.56-1.016-1.16zm1.804 2.18c-.003.254-.083.341-.192.475-.111.009-.39-.075-.512-.25.185-.212.469-.21.704-.224zm-2.834.172c-.059.07-.086.157-.156.305.092-.14.146-.2.207-.244zm.141.176c-.225.063-.386.418-.611.92.24-.296.406-.716.744-.85zm-11.84 2.91.054 1.055-1.653.949-.027-.786c.689.179 1.147-.56 1.627-1.219zm.734 2.25.242.623-2.087 1.138-.299-.706c2.09-.764 1.731-.759 2.144-1.056zm.757 1.436.272.461c-.787.389-1.435.912-2.005 1.517l-.435-.866c.789-.24 1.53-.572 2.168-1.112m1.005 1.301.46.434c-.36.81-1.106 1.312-1.817 1.843l-.73-.84c.716-.469 1.626-.84 2.087-1.437m1.539 1.503c.072.432-.222 1.073-1.214 2.021-.386-.174-.785-.336-1.032-.65 1.607-.814 2.02-1.253 2.139-1.468.042-.006.112.032.107.097m1.01.667c.036.382-.041.829.188 1.082l.216.056c-.113.47-.34.821-.325 1.291-.857-.208-.951-.297-1.274-.504.996-1.549 1.186-1.913 1.194-1.925zm1.407.784 1.058 1.22c-.106.584-.097.933.299 1.085-.599-.033-1.186-.04-1.68-.344.43-.637.423-1.208.323-1.961m5.325.475c.307.467.348.706.655.813-.405.393-.587.47-1.063.65.149-.303 0-.728-.134-1.244-.1-.192.4-.176.542-.219m-2.993.284c1.786.534 1.18.872 1.729 1.405-.472.1-.904.205-1.656.163.555-.411.301-.87-.073-1.568"/></svg>
+
+    </a>
+    Research Computing
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Documentation
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Documentation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../resources/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resources
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../policy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Usage Policy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Software
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Software
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Environment Modules
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Environment Modules
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#module-command" class="md-nav__link">
+    <span class="md-ellipsis">
+      Module Command
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Module Command">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#retrieving-available-modules" class="md-nav__link">
+    <span class="md-ellipsis">
+      Retrieving Available Modules
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#searching-for-modules" class="md-nav__link">
+    <span class="md-ellipsis">
+      Searching for Modules
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#loadingunloading-modules" class="md-nav__link">
+    <span class="md-ellipsis">
+      Loading/Unloading Modules
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#getting-information-about-modules" class="md-nav__link">
+    <span class="md-ellipsis">
+      Getting Information about Modules
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#collections" class="md-nav__link">
+    <span class="md-ellipsis">
+      Collections
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Collections">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creating-collections" class="md-nav__link">
+    <span class="md-ellipsis">
+      Creating Collections
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#listing-collections" class="md-nav__link">
+    <span class="md-ellipsis">
+      Listing Collections
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#listing-contents-of-a-collection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Listing Contents of a Collection
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#restoring-collections" class="md-nav__link">
+    <span class="md-ellipsis">
+      Restoring Collections
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#deleting-a-collection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Deleting a Collection
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#further-reading" class="md-nav__link">
+    <span class="md-ellipsis">
+      Further Reading
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../catalog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Catalog
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../policy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Policy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../storage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Storage
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../globus/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Globus
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../jupyterhub/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    JupyterHub
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Guides
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Guides
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/conda/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Using Conda
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/git/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Git & GitHub
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/jupyterlab/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    JupyterLab
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_4" id="__nav_3_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    SLURM
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_4">
+            <span class="md-nav__icon md-icon"></span>
+            SLURM
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/slurm/overview.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/slurm/basic-usage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jobs &amp; Batch Scripts
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/slurm/advanced-batch-scripting/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Advanced Batch Scripting
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../guides/slurm/job-arrays/job-arrays/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Job Arrays
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#module-command" class="md-nav__link">
+    <span class="md-ellipsis">
+      Module Command
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Module Command">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#retrieving-available-modules" class="md-nav__link">
+    <span class="md-ellipsis">
+      Retrieving Available Modules
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#searching-for-modules" class="md-nav__link">
+    <span class="md-ellipsis">
+      Searching for Modules
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#loadingunloading-modules" class="md-nav__link">
+    <span class="md-ellipsis">
+      Loading/Unloading Modules
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#getting-information-about-modules" class="md-nav__link">
+    <span class="md-ellipsis">
+      Getting Information about Modules
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#collections" class="md-nav__link">
+    <span class="md-ellipsis">
+      Collections
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Collections">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#creating-collections" class="md-nav__link">
+    <span class="md-ellipsis">
+      Creating Collections
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#listing-collections" class="md-nav__link">
+    <span class="md-ellipsis">
+      Listing Collections
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#listing-contents-of-a-collection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Listing Contents of a Collection
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#restoring-collections" class="md-nav__link">
+    <span class="md-ellipsis">
+      Restoring Collections
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#deleting-a-collection" class="md-nav__link">
+    <span class="md-ellipsis">
+      Deleting a Collection
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#further-reading" class="md-nav__link">
+    <span class="md-ellipsis">
+      Further Reading
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="modules-and-easybuild">Modules and EasyBuild</h1>
+<p>Davidson College Research Computing Department manages the software installed in the cluster nodes using <strong>EasyBuild</strong> framework. This framework allows users to use <strong>environment modules</strong>, which in return allows access to software the Research Computing Department provides on cluster nodes. Using software made available by environment modules is more consistent and reliable as it provides an isolated software installation utilizing both compilers and libraries needed to build them. </p>
+<h2 id="module-command">Module Command</h2>
+<p>EasyBuild allows access to the environment modules as Lmod modules. You can access these modules using the <code>module</code> command. </p>
+<h3 id="retrieving-available-modules">Retrieving Available Modules</h3>
+<p>In order to list available modules, use <code>module avail</code> command. In addition to listing available modules, you can see certain tags next to the module names. The <code>(L)</code> tag is for loaded modules, and the <code>(D)</code> tag is for default version of a module. </p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>On JupyterLab or on compute nodes, you can open a terminal window and run <code>module avail</code> command to list available modules. </p>
+<p>When a new JupyterLab session is started, it loads certain modules by default. Here is an example output:</p>
+<div class="highlight"><pre><span></span><code>----------------------------- /opt/pub/modules/generic/Core -------------------------------
+Bison/3.8.2                    Go/1.22.1                        foss/2020b
+CERTMgr/3.0.3                  Java/11.0.2                      foss/2021a
+CFSSL/1.6.0                    Java/11.0.20                     foss/2022a           (D)
+EasyBuild/4.8.1                Mathematica/13.2.1               iimpi/2022a 
+FastQC/0.11.9-Java-11          MinIO-Client                     imkl/2021.4.0
+GCCcore/10.3.0                 Miniconda3/24.3.0-0      (L)     intel/2021a
+GCCcore/11.3.0        (L,D)    NVHPC/21.2                       intel/2022a 
+(...)
+</code></pre></div>
+<p>In this output the meaning of the tags are as follows:<br />
+-Miniconda3 module with version 24.3.0-0 (shortened as Miniconda3/24.3.0-0) is loaded,<br />
+-foss/2022a is the default version for foss module, and<br />
+-GCCcore/11.3.0 module is the default version when GCCcore module is loaded, and this module is currently loaded.</p>
+</div>
+<h3 id="searching-for-modules">Searching for Modules</h3>
+<p>Loading a module can require other modules to be loaded first. In order to check if a module is available to be used and which other modules needs to be loaded, run <code>module spider [module-name]</code> command</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p><code>PyTorch-bundle</code> module requires <code>GCC</code> and <code>OpenMPI</code> modules to be loaded beforehand. This can be checked by <code>module spider PyTorch-bundle</code> command. A snippet of the output can be as follows:</p>
+<div class="highlight"><pre><span></span><code>(...)
+-----------------------------------------------------------------------------------------
+PyTorch-bundle: PyTorch-bundle/1.12.1-CUDA-11.7.0
+-----------------------------------------------------------------------------------------
+Description:
+  PyTorch with compatible versions of official Torch extensions.
+
+You will need to load all module(s) on any one of the lines below before the 
+&quot;PyTorch-bundle/1.12.1-CUDA-11.7.0&quot; module is available to load.
+
+  GCC/11.3.0  OpenMPI/4.1.4
+(...)
+</code></pre></div>
+<p>Based on the output of the command, GCC/11.3.0 and OpenMPI/4.1.4 modules need to be loaded. Run the following command to load PyTorch module: <code>module load GCC/11.3.0 OpenMPI/4.1.4 PyTorch</code>. This command will load the modules in the listed order. </p>
+<p>You can verify PyTorch module running by listing the available devices:</p>
+<div class="highlight"><pre><span></span><code>anscott:gpu0:~$ module purge                               ## Unload all of the modules
+anscott:gpu0:~$ module load GCC OpenMPI PyTorch-bundle     ## Load the modules in the hierarchical order
+anscott:gpu0:~$ module load IPython                        ## Load iPython module to test pytorch
+
+anscott:gpu0:~$ salloc --gpus 1                            ## Allocate a GPU to be used
+salloc: Granted job allocation 247278
+salloc: Waiting for resource configuration
+salloc: Nodes gpu0 are ready for job
+
+bash-4.4$ ipython                                          ## Start iPython session
+
+Python 3.10.4 (main, May 13 2024, 00:59:34) [GCC 11.3.0]
+Type &#39;copyright&#39;, &#39;credits&#39; or &#39;license&#39; for more information
+IPython 8.14.0 -- An enhanced Interactive Python. Type &#39;?&#39; for help.
+
+In [1]: import torch                                       ## Import PyTorch library
+In [2]: torch.cuda.is_available()                          ## Check if there are any GPUs available
+Out[2]: True
+
+In [3]: torch.cuda.device_count()                          ## Check the number of GPUs available
+Out[3]: 1
+</code></pre></div>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Different versions of the same module can have different dependencies. This is why certain modules can require the version number to be specified when using the <em>spider</em> command. </p>
+</div>
+<h3 id="loadingunloading-modules">Loading/Unloading Modules</h3>
+<p>Building software can require a series of compilers and libraries, called <code>dependency chain</code>. In order to load a software, you must enable the dependencies it requires at first, only then it will be available to be loaded. Use <code>module load [module-name]</code> to load modules, and <code>module unload [module-name]</code> to unload modules.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>It can be easier to use the <code>Tab</code> button to use the autocomplete functionality of the commandline interface. For instance, you can use this functionality to list the available versions of a package. Press on <code>Tab</code> twice after you type <code>module load Julia</code> into your terminal, and it will display all of the versions available for the module Julia. </p>
+<div class="highlight"><pre><span></span><code>anscott:gpu0:~$ module load Julia            ## Press Tab twice for autocomplete
+Julia        Julia/1.7.0  Julia/1.7.2  Julia/1.8.5  Julia/1.9.3
+</code></pre></div>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Use <code>module purge</code> to unload all of the loaded modules.</p>
+</div>
+<h3 id="getting-information-about-modules">Getting Information about Modules</h3>
+<p>If you would like to get more information regarding a module, use <code>module help [module-name]</code> command.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>If you would like to learn more about the module <code>PyTorch</code>, you can use the <code>module help PyTorch</code> command.</p>
+<div class="highlight"><pre><span></span><code>----------------------- Module Specific Help for &quot;PyTorch/1.12.1&quot; --------------------------
+
+Description
+===========
+Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+PyTorch is a deep learning framework that puts Python first.
+
+More information 
+================
+ - Homepage: https://pytorch.org/
+</code></pre></div>
+</div>
+<h2 id="collections">Collections</h2>
+<p>When you are working on a project, loading each module repedeately can be cumbersome. In order to save the modules you currently have loaded, you can save them as a <strong>collection</strong>. Collections are only available to individual users, and they persist through sessions. </p>
+<h3 id="creating-collections">Creating Collections</h3>
+<p>To save the current modules, you can use the <code>module save [collection-name]</code> command. </p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Good to start with module purge when you are starting a new session. </p>
+</div>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>Loading <code>TensorFlow/2.11.0-CUDA-11.7.0</code> requires <code>GCC</code> and <code>OpenMPI</code> modules to be loaded first. Once you load the modules you want, you can save them as a collection named 'tensor-modules'.</p>
+<div class="highlight"><pre><span></span><code>anscott:gpu0:~$ module purge
+anscott:gpu0:~$ module load GCC OpenMPI TensorFlow/2.11.0-CUDA-11.7.0
+
+anscott:gpu0:~$ module save tensor-modules
+Saved current collection of modules to: &quot;tensor-modules&quot;
+</code></pre></div>
+<p>Now, newly created tensor-modules collection can be restored in a future session, which only loads GCC, OpenMPI and TensorFlow modules. </p>
+</div>
+<h3 id="listing-collections">Listing Collections</h3>
+<p>To list collections you have created, you can use the <code>module savelist</code> command.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<div class="highlight"><pre><span></span><code>anscott:gpu0:~$ module savelist
+Named collection list :
+  1) tensor-modules
+</code></pre></div>
+</div>
+<h3 id="listing-contents-of-a-collection">Listing Contents of a Collection</h3>
+<p>To list which modules are being used in a collection, you can use the <code>module describe [collection-name]</code> command.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>In order to list the modules loaded in the collection created in the previous example, use the <code>module describe tensor-modules</code> command.</p>
+<div class="highlight"><pre><span></span><code>anscott:gpu0:~$ module describe tensor-modules
+Collection &quot;tensor-modules&quot; contains: 
+   1)  GCCcore/11.3.0        15) ncurses/6.3             29) double-conversion/3.2.0 
+   2)  binutils/2.38         16) libreadline/8.1.2       30) flatbuffers/2.0.7
+   3)  GCC                   17) SQLite/3.38.3           31) giflib/5.2.1
+   4)  slurm/22.05.11        18) GMP/6.2.1               32) ICU/71.1
+   5)  PMIx/4.1.2            19) libffi/3.4.2            33) JsonCpp/1.9.5
+   6)  UCX/1.12.1            20) OpenSSL/1.1             34) NASM/2.15.05
+   7)  UCC/1.0.0             21) Python/3.10.4           35) libjpeg-turbo/2.1.3
+   8)  libfabric/1.15.1      22) pybind11/2.9.2          36) LMDB/0.9.29
+   9)  OpenMPI               23) SciPy-bundle/2022.05    37) nsync/1.25.0
+   10) OpenBLAS/0.3.20       24) Szip/2.1.1              38) protobuf/3.19.4
+   11) FlexiBLAS/3.2.0       25) HDF5/1.12.2             39) protobuf-python/3.19.4
+   12) FFTW/3.3.10           26) h5py/3.7.0              40) snappy/1.1.9
+   13) FFTW.MPI/3.3.10       27) cURL/7.83.0             41) networkx/2.8.4
+   14) ScaLAPACK/2.2.0-fb    28) dill/0.3.6              42) TensorFlow/2.11.0
+</code></pre></div>
+</div>
+<h3 id="restoring-collections">Restoring Collections</h3>
+<p>To load a collection, you can use the <code>module restore [collection-name]</code> command.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>In order to load the collection created in the previous example, use the <code>module restore tensor-modules</code> command.</p>
+<div class="highlight"><pre><span></span><code>anscott:gpu0:~$ module restore tensor-modules
+Restoring modules from user&#39;s tensor-modules
+</code></pre></div>
+</div>
+<h3 id="deleting-a-collection">Deleting a Collection</h3>
+<p>To delete a collection, you can use the <code>module disable [collection-name]</code> command.</p>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>In order to delete the collection created in the previous example, use the <code>module disable tensor-modules</code> command.</p>
+<div class="highlight"><pre><span></span><code>anscott:gpu0:~$ module disable tensor-modules
+Disabling tensor-modules collection by renaming with a &quot;~&quot;
+</code></pre></div>
+</div>
+<h2 id="further-reading">Further Reading</h2>
+<ul>
+<li>You can read more on how to use <em>module</em> command using the <code>man module</code> command. </li>
+<li>Using <em>module</em> and <em>conda</em> to manage packages can result in overwriting the same environment variables. If you activate an environment with <em>conda</em> first, and then load a module with <em>module</em>, then module will take precedence as it may overwrite the environment variables. </li>
+<li>If you need a new module to be installed, contact <a href="ti@davidson.edu">ti@davidson.edu</a>.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["content.code.copy", "navigation.instant", "navigation.top", "navigation.tracking", "toc.follow", "search.highlight", "search.suggest"], "search": "../../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.f1b6f286.min.js"></script>
+      
+    
+  </body>
+</html>
