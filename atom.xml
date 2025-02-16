@@ -4,7 +4,7 @@
   <title type="html">Research Computing</title>
   <link href="https://rc.davidson.edu/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
-  <updated>2025-02-15T22:59:03+00:00</updated>
+  <updated>2025-02-15T23:05:10+00:00</updated>
   <generator uri="https://github.com/maedadev/mkdocs-atom-plugin/" version="0.0.5">MkDocs Atom Plugin</generator>
 
   
@@ -13,7 +13,7 @@
     <title type="html">Job Arrays</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:09+00:00</updated>
+    <updated>2025-02-15T23:05:16+00:00</updated>
 
     
 
@@ -38,7 +38,7 @@
     <title type="html">Three body</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/three_body/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:09+00:00</updated>
+    <updated>2025-02-15T23:05:16+00:00</updated>
 
     
 
@@ -56,7 +56,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Advanced Batch Scripting</title>
     <link href="https://rc.davidson.edu/guides/slurm/advanced-batch-scripting/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:08+00:00</updated>
+    <updated>2025-02-15T23:05:15+00:00</updated>
 
     
 
@@ -81,7 +81,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Jobs &amp;amp; Batch Scripts</title>
     <link href="https://rc.davidson.edu/guides/slurm/basic-usage/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:08+00:00</updated>
+    <updated>2025-02-15T23:05:15+00:00</updated>
 
     
 
@@ -106,7 +106,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Using Containers</title>
     <link href="https://rc.davidson.edu/guides/slurm/containers/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:08+00:00</updated>
+    <updated>2025-02-15T23:05:15+00:00</updated>
 
     
 
@@ -131,7 +131,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">SLURM</title>
     <link href="https://rc.davidson.edu/guides/slurm/overview/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:08+00:00</updated>
+    <updated>2025-02-15T23:05:15+00:00</updated>
 
     
 
@@ -142,11 +142,45 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/r/RStudio-Server/</id>
+    <title type="html">RStudio-Server</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/r/RStudio-Server/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:05:14+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;RStudio-Server&lt;/h1&gt;
+&lt;p&gt;This is the RStudio Server version. RStudio is a set of integrated tools designed to help you be more productive with R.  The server can be...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/r/RapidJSON/</id>
+    <title type="html">RapidJSON</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/r/RapidJSON/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:05:14+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;RapidJSON&lt;/h1&gt;
+&lt;p&gt;A fast JSON parser/generator for C++ with both SAX/DOM style API&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://rapidjson.org&#34;&gt;https://rapidjson.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+`...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
     <id>https://rc.davidson.edu/docs/software/catalog/r/Ruby/</id>
     <title type="html">Ruby</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/r/Ruby/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -161,7 +195,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Rust</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/r/Rust/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -177,7 +211,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">rclone</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/r/rclone/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -194,7 +228,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">re2c</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/r/re2c/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -209,7 +243,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">List of supported software (s)</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/s/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -224,7 +258,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">SAMtools</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/s/SAMtools/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -239,7 +273,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">SCIP-Suite</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/s/SCIP-Suite/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -254,7 +288,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">SCIP</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/s/SCIP/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -269,7 +303,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">SOCI</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/s/SOCI/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -284,7 +318,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">SQLite</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/s/SQLite/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -303,7 +337,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">SUNDIALS</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/s/SUNDIALS/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -320,7 +354,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">SVG</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/s/SVG/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T22:59:07+00:00</updated>
+    <updated>2025-02-15T23:05:14+00:00</updated>
 
     
 
@@ -332,38 +366,6 @@ import matplotlib.pyplot as plt&lt;/p&gt;
 &lt;p&gt;version | versionsuffix | toolchain
 --------|---------------|----------
 &lt;code&gt;2.84&lt;/code&gt; | `...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/s/SWIG/</id>
-    <title type="html">SWIG</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/s/SWIG/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:59:07+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;SWIG&lt;/h1&gt;
-&lt;p&gt;SWIG is a software development tool that connects programs written in C and C++ with  a variety of high-level programming languages.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &amp;lt;ht...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/s/ScaLAPACK/</id>
-    <title type="html">ScaLAPACK</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/s/ScaLAPACK/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T22:59:07+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;ScaLAPACK&lt;/h1&gt;
-&lt;p&gt;The ScaLAPACK (or Scalable LAPACK) library includes a subset of LAPACK routines  redesigned for distributed memory MIMD parallel computers.&lt;/p&gt;
-&lt;p&gt;*ho...&lt;/p&gt;</summary>
   </entry>
   
 </feed>
