@@ -4,7 +4,7 @@
   <title type="html">Research Computing</title>
   <link href="https://rc.davidson.edu/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
-  <updated>2025-02-15T23:07:39+00:00</updated>
+  <updated>2025-02-15T23:12:44+00:00</updated>
   <generator uri="https://github.com/maedadev/mkdocs-atom-plugin/" version="0.0.5">MkDocs Atom Plugin</generator>
 
   
@@ -13,7 +13,7 @@
     <title type="html">Three body</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/three_body/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:45+00:00</updated>
+    <updated>2025-02-15T23:12:50+00:00</updated>
 
     
 
@@ -31,7 +31,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Jobs &amp;amp; Batch Scripts</title>
     <link href="https://rc.davidson.edu/guides/slurm/basic-usage/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:44+00:00</updated>
+    <updated>2025-02-15T23:12:49+00:00</updated>
 
     
 
@@ -56,7 +56,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Using Containers</title>
     <link href="https://rc.davidson.edu/guides/slurm/containers/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:44+00:00</updated>
+    <updated>2025-02-15T23:12:49+00:00</updated>
 
     
 
@@ -81,7 +81,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Overview</title>
     <link href="https://rc.davidson.edu/guides/slurm/overview/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:44+00:00</updated>
+    <updated>2025-02-15T23:12:49+00:00</updated>
 
     
 
@@ -96,7 +96,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Job Arrays</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:44+00:00</updated>
+    <updated>2025-02-15T23:12:49+00:00</updated>
 
     
 
@@ -121,7 +121,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">CPU Limits &amp;amp; Usage</title>
     <link href="https://rc.davidson.edu/guides/ResourceLimits/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:43+00:00</updated>
+    <updated>2025-02-15T23:12:48+00:00</updated>
 
     
 
@@ -142,7 +142,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Using Conda</title>
     <link href="https://rc.davidson.edu/guides/conda/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:43+00:00</updated>
+    <updated>2025-02-15T23:12:48+00:00</updated>
 
     
 
@@ -157,7 +157,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Git &amp; GitHub</title>
     <link href="https://rc.davidson.edu/guides/git/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:43+00:00</updated>
+    <updated>2025-02-15T23:12:48+00:00</updated>
 
     
 
@@ -172,7 +172,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">JupyterLab</title>
     <link href="https://rc.davidson.edu/guides/jupyterlab/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:43+00:00</updated>
+    <updated>2025-02-15T23:12:48+00:00</updated>
 
     
 
@@ -187,7 +187,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Advanced Batch Scripting</title>
     <link href="https://rc.davidson.edu/guides/slurm/advanced-batch-scripting/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:43+00:00</updated>
+    <updated>2025-02-15T23:12:48+00:00</updated>
 
     
 
@@ -208,11 +208,90 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenJPEG/</id>
+    <title type="html">OpenJPEG</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenJPEG/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:12:47+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;OpenJPEG&lt;/h1&gt;
+&lt;p&gt;OpenJPEG is an open-source JPEG 2000 codec written in  C language. It has been developed in order to promote the use of JPEG 2000,  a still-image...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenMPI/</id>
+    <title type="html">OpenMPI</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenMPI/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:12:47+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;OpenMPI&lt;/h1&gt;
+&lt;p&gt;The Open MPI Project is an open source MPI-3 implementation.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://www.open-mpi.org/&#34;&gt;https://www.open-mpi.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+``4...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenPGM/</id>
+    <title type="html">OpenPGM</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenPGM/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:12:47+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;OpenPGM&lt;/h1&gt;
+&lt;p&gt;OpenPGM is an open source implementation of the Pragmatic General Multicast  (PGM) specification in RFC 3208 available at www.ietf.org. PGM is a r...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenSSL/</id>
+    <title type="html">OpenSSL</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenSSL/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:12:47+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;OpenSSL&lt;/h1&gt;
+&lt;p&gt;The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured,  and Open Source toolchain implementing the Se...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/</id>
+    <title type="html">List of supported software (p)</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:12:47+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;List of supported software (p)&lt;/h1&gt;
+&lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
     <id>https://rc.davidson.edu/docs/software/catalog/p/PCRE/</id>
     <title type="html">PCRE</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/p/PCRE/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:42+00:00</updated>
+    <updated>2025-02-15T23:12:47+00:00</updated>
 
     
 
@@ -228,7 +307,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">PCRE2</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/p/PCRE2/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:42+00:00</updated>
+    <updated>2025-02-15T23:12:47+00:00</updated>
 
     
 
@@ -244,7 +323,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">PMIx</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/p/PMIx/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:42+00:00</updated>
+    <updated>2025-02-15T23:12:47+00:00</updated>
 
     
 
@@ -259,7 +338,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">PROJ</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/p/PROJ/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:42+00:00</updated>
+    <updated>2025-02-15T23:12:47+00:00</updated>
 
     
 
@@ -275,7 +354,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Pango</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/p/Pango/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:07:42+00:00</updated>
+    <updated>2025-02-15T23:12:47+00:00</updated>
 
     
 
@@ -283,84 +362,6 @@ import matplotlib.pyplot as plt&lt;/p&gt;
 
     <summary type="html">&lt;h1&gt;Pango&lt;/h1&gt;
 &lt;p&gt;Pango is a library for laying out and rendering of text, with an emphasis on internationalization. Pango can be used anywhere that text layout is ne...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Perl/</id>
-    <title type="html">Perl</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Perl/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:07:42+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Perl&lt;/h1&gt;
-&lt;p&gt;Larry Wall&#39;s Practical Extraction and Report Language  This is a minimal build without any modules. Should only be used for build dependencies.&lt;/p&gt;
-&lt;p&gt;*hom...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Pillow-SIMD/</id>
-    <title type="html">Pillow-SIMD</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Pillow-SIMD/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:07:42+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Pillow-SIMD&lt;/h1&gt;
-&lt;p&gt;Pillow is the &#39;friendly PIL fork&#39; by Alex Clark and Contributors.  PIL is the Python Imaging Library by Fredrik Lundh and Contributors.&lt;/p&gt;
-&lt;p&gt;*home...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Pillow/</id>
-    <title type="html">Pillow</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Pillow/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:07:42+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Pillow&lt;/h1&gt;
-&lt;p&gt;Pillow is the &#39;friendly PIL fork&#39; by Alex Clark and Contributors.  PIL is the Python Imaging Library by Fredrik Lundh and Contributors.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PostgreSQL/</id>
-    <title type="html">PostgreSQL</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PostgreSQL/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:07:42+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PostgreSQL&lt;/h1&gt;
-&lt;p&gt;PostgreSQL is a powerful, open source object-relational database system.  It is fully ACID compliant, has full support for foreign keys,  joins...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Prometheus-Alertmanager/</id>
-    <title type="html">Prometheus-Alertmanager</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Prometheus-Alertmanager/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:07:42+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Prometheus-Alertmanager&lt;/h1&gt;
-&lt;p&gt;The Alertmanager handles alerts sent by client applications such as the Prometheus server.  It takes care of deduplicating, groupi...&lt;/p&gt;</summary>
   </entry>
   
 </feed>
