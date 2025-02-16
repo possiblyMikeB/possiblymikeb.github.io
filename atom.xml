@@ -4,59 +4,16 @@
   <title type="html">Research Computing</title>
   <link href="https://rc.davidson.edu/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
-  <updated>2025-02-15T23:12:44+00:00</updated>
+  <updated>2025-02-15T23:18:15+00:00</updated>
   <generator uri="https://github.com/maedadev/mkdocs-atom-plugin/" version="0.0.5">MkDocs Atom Plugin</generator>
 
-  
-  <entry>
-    <id>https://rc.davidson.edu/guides/slurm/job-arrays/three_body/</id>
-    <title type="html">Three body</title>
-    <link href="https://rc.davidson.edu/guides/slurm/job-arrays/three_body/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:12:50+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;p&gt;import sys, hashlib, os
-import numpy as np
-from scipy.integrate import solve_ivp
-import matplotlib.pyplot as plt&lt;/p&gt;
-&lt;h1&gt;initial mass for each of the three bodies...&lt;/h1&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/guides/slurm/basic-usage/</id>
-    <title type="html">Jobs &amp;amp; Batch Scripts</title>
-    <link href="https://rc.davidson.edu/guides/slurm/basic-usage/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:12:49+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;p&gt;{
- &#34;cells&#34;: [
-  {
-   &#34;cell_type&#34;: &#34;markdown&#34;,
-   &#34;metadata&#34;: {
-    &#34;slideshow&#34;: {
-     &#34;slide_type&#34;: &#34;slide&#34;
-    }
-   },
-   &#34;source&#34;: [
-    &#34;\n&#34;,
-    &#34;# Jobs...&lt;/p&gt;</summary>
-  </entry>
   
   <entry>
     <id>https://rc.davidson.edu/guides/slurm/containers/</id>
     <title type="html">Using Containers</title>
     <link href="https://rc.davidson.edu/guides/slurm/containers/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:49+00:00</updated>
+    <updated>2025-02-15T23:18:20+00:00</updated>
 
     
 
@@ -81,7 +38,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Overview</title>
     <link href="https://rc.davidson.edu/guides/slurm/overview/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:49+00:00</updated>
+    <updated>2025-02-15T23:18:20+00:00</updated>
 
     
 
@@ -96,7 +53,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Job Arrays</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:49+00:00</updated>
+    <updated>2025-02-15T23:18:20+00:00</updated>
 
     
 
@@ -117,11 +74,29 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
+    <id>https://rc.davidson.edu/guides/slurm/job-arrays/three_body/</id>
+    <title type="html">Three body</title>
+    <link href="https://rc.davidson.edu/guides/slurm/job-arrays/three_body/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:18:20+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;p&gt;import sys, hashlib, os
+import numpy as np
+from scipy.integrate import solve_ivp
+import matplotlib.pyplot as plt&lt;/p&gt;
+&lt;h1&gt;initial mass for each of the three bodies...&lt;/h1&gt;</summary>
+  </entry>
+  
+  <entry>
     <id>https://rc.davidson.edu/guides/ResourceLimits/</id>
     <title type="html">CPU Limits &amp;amp; Usage</title>
     <link href="https://rc.davidson.edu/guides/ResourceLimits/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:48+00:00</updated>
+    <updated>2025-02-15T23:18:19+00:00</updated>
 
     
 
@@ -142,7 +117,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Using Conda</title>
     <link href="https://rc.davidson.edu/guides/conda/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:48+00:00</updated>
+    <updated>2025-02-15T23:18:19+00:00</updated>
 
     
 
@@ -157,7 +132,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Git &amp; GitHub</title>
     <link href="https://rc.davidson.edu/guides/git/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:48+00:00</updated>
+    <updated>2025-02-15T23:18:19+00:00</updated>
 
     
 
@@ -172,7 +147,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">JupyterLab</title>
     <link href="https://rc.davidson.edu/guides/jupyterlab/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:48+00:00</updated>
+    <updated>2025-02-15T23:18:19+00:00</updated>
 
     
 
@@ -187,7 +162,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Advanced Batch Scripting</title>
     <link href="https://rc.davidson.edu/guides/slurm/advanced-batch-scripting/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:48+00:00</updated>
+    <updated>2025-02-15T23:18:19+00:00</updated>
 
     
 
@@ -208,160 +183,191 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenJPEG/</id>
-    <title type="html">OpenJPEG</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenJPEG/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/guides/slurm/basic-usage/</id>
+    <title type="html">Jobs &amp;amp; Batch Scripts</title>
+    <link href="https://rc.davidson.edu/guides/slurm/basic-usage/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:47+00:00</updated>
+    <updated>2025-02-15T23:18:19+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;OpenJPEG&lt;/h1&gt;
-&lt;p&gt;OpenJPEG is an open-source JPEG 2000 codec written in  C language. It has been developed in order to promote the use of JPEG 2000,  a still-image...&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;metadata&#34;: {
+    &#34;slideshow&#34;: {
+     &#34;slide_type&#34;: &#34;slide&#34;
+    }
+   },
+   &#34;source&#34;: [
+    &#34;\n&#34;,
+    &#34;# Jobs...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenMPI/</id>
-    <title type="html">OpenMPI</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenMPI/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/pgAdmin4/</id>
+    <title type="html">pgAdmin4</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/pgAdmin4/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:47+00:00</updated>
+    <updated>2025-02-15T23:18:18+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;OpenMPI&lt;/h1&gt;
-&lt;p&gt;The Open MPI Project is an open source MPI-3 implementation.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://www.open-mpi.org/&#34;&gt;https://www.open-mpi.org/&lt;/a&gt;&lt;/p&gt;
+    <summary type="html">&lt;h1&gt;pgAdmin4&lt;/h1&gt;
+&lt;p&gt;pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source da...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/pigz/</id>
+    <title type="html">pigz</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/pigz/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:18:18+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;pigz&lt;/h1&gt;
+&lt;p&gt;pigz, which stands for parallel implementation of gzip, is a fully  functional replacement for gzip that exploits multiple processors and multiple  c...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/pixman/</id>
+    <title type="html">pixman</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/pixman/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:18:18+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;pixman&lt;/h1&gt;
+&lt;p&gt;Pixman is a low-level software library for pixel manipulation, providing  features such as image compositing and trapezoid rasterization. Important...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/pkg-config/</id>
+    <title type="html">pkg-config</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/pkg-config/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:18:18+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;pkg-config&lt;/h1&gt;
+&lt;p&gt;pkg-config is a helper tool used when compiling applications and libraries.  It helps you insert the correct compiler options on the command li...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/pkgconf/</id>
+    <title type="html">pkgconf</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/pkgconf/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:18:18+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;pkgconf&lt;/h1&gt;
+&lt;p&gt;pkgconf is a program which helps to configure compiler and linker flags for development libraries.  It is similar to pkg-config from freedesktop.o...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/pkgconfig/</id>
+    <title type="html">pkgconfig</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/pkgconfig/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:18:18+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;pkgconfig&lt;/h1&gt;
+&lt;p&gt;pkgconfig is a Python module to interface with the pkg-config command line tool&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/matze/pkgconfig&#34;&gt;https://github.com/matze/pkgconfig&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | ver...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/plotly.py/</id>
+    <title type="html">plotly.py</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/plotly.py/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T23:18:18+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;plotly.py&lt;/h1&gt;
+&lt;p&gt;An open-source, interactive graphing library for Python&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://plot.ly/python&#34;&gt;https://plot.ly/python&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;version | toolchain
 --------|----------
-``4...&lt;/p&gt;</summary>
+&lt;code&gt;`5.12.0&lt;/code&gt;...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenPGM/</id>
-    <title type="html">OpenPGM</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenPGM/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/pocl/</id>
+    <title type="html">pocl</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/pocl/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:47+00:00</updated>
+    <updated>2025-02-15T23:18:18+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;OpenPGM&lt;/h1&gt;
-&lt;p&gt;OpenPGM is an open source implementation of the Pragmatic General Multicast  (PGM) specification in RFC 3208 available at www.ietf.org. PGM is a r...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;pocl&lt;/h1&gt;
+&lt;p&gt;Pocl is a portable open source (MIT-licensed) implementation of the OpenCL standard&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;http://portablecl.org&#34;&gt;http://portablecl.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+-------...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenSSL/</id>
-    <title type="html">OpenSSL</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenSSL/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/poetry/</id>
+    <title type="html">poetry</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/poetry/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:47+00:00</updated>
+    <updated>2025-02-15T23:18:18+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;OpenSSL&lt;/h1&gt;
-&lt;p&gt;The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured,  and Open Source toolchain implementing the Se...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;poetry&lt;/h1&gt;
+&lt;p&gt;Python packaging and dependency management made easy. Poetry helps you declare, manage and install  dependencies of Python projects, ensuring you h...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/</id>
-    <title type="html">List of supported software (p)</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/p/poppler/</id>
+    <title type="html">poppler</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/p/poppler/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-15T23:12:47+00:00</updated>
+    <updated>2025-02-15T23:18:18+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;List of supported software (p)&lt;/h1&gt;
-&lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PCRE/</id>
-    <title type="html">PCRE</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PCRE/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:12:47+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PCRE&lt;/h1&gt;
-&lt;p&gt;The PCRE library is a set of functions that implement regular expression  pattern matching using the same syntax and semantics as Perl 5.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PCRE2/</id>
-    <title type="html">PCRE2</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PCRE2/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:12:47+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PCRE2&lt;/h1&gt;
-&lt;p&gt;The PCRE library is a set of functions that implement regular expression pattern matching using the same syntax  and semantics as Perl 5.&lt;/p&gt;
-&lt;p&gt;*homepage...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PMIx/</id>
-    <title type="html">PMIx</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PMIx/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:12:47+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PMIx&lt;/h1&gt;
-&lt;p&gt;Process Management for Exascale Environments PMI Exascale (PMIx) represents an attempt to provide an extended version of the PMI standard specificall...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PROJ/</id>
-    <title type="html">PROJ</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PROJ/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:12:47+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PROJ&lt;/h1&gt;
-&lt;p&gt;Program proj is a standard Unix filter function which converts geographic longitude and latitude coordinates into cartesian coordinates&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: ...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Pango/</id>
-    <title type="html">Pango</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Pango/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-15T23:12:47+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Pango&lt;/h1&gt;
-&lt;p&gt;Pango is a library for laying out and rendering of text, with an emphasis on internationalization. Pango can be used anywhere that text layout is ne...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;poppler&lt;/h1&gt;
+&lt;p&gt;Poppler is a PDF rendering library&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://poppler.freedesktop.org&#34;&gt;https://poppler.freedesktop.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+&lt;code&gt;22.12.0&lt;/code&gt; | ``GCC/11....&lt;/p&gt;</summary>
   </entry>
   
 </feed>
