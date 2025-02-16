@@ -4,16 +4,41 @@
   <title type="html">Research Computing</title>
   <link href="https://rc.davidson.edu/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
-  <updated>2024-08-10T20:47:27+00:00</updated>
+  <updated>2025-02-15T21:51:51+00:00</updated>
   <generator uri="https://github.com/maedadev/mkdocs-atom-plugin/" version="0.0.5">MkDocs Atom Plugin</generator>
 
+  
+  <entry>
+    <id>https://rc.davidson.edu/tutorials/slurm/containers/</id>
+    <title type="html">Using Containers</title>
+    <link href="https://rc.davidson.edu/tutorials/slurm/containers/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T21:51:56+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;metadata&#34;: {},
+   &#34;source&#34;: [
+    &#34;# Using Containers&#34;
+   ]
+  },
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;metada...&lt;/p&gt;</summary>
+  </entry>
   
   <entry>
     <id>https://rc.davidson.edu/tutorials/slurm/job-arrays/job-arrays/</id>
     <title type="html">Job Arrays</title>
     <link href="https://rc.davidson.edu/tutorials/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:30+00:00</updated>
+    <updated>2025-02-15T21:51:56+00:00</updated>
 
     
 
@@ -38,7 +63,7 @@
     <title type="html">Three body</title>
     <link href="https://rc.davidson.edu/tutorials/slurm/job-arrays/three_body/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:30+00:00</updated>
+    <updated>2025-02-15T21:51:56+00:00</updated>
 
     
 
@@ -52,61 +77,11 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/tutorials/slurm/basic-usage/</id>
-    <title type="html">Jobs &amp;amp; Batch Scripts</title>
-    <link href="https://rc.davidson.edu/tutorials/slurm/basic-usage/" rel="alternate" type="text/html"/>
-    
-    <updated>2024-08-10T20:47:29+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;p&gt;{
- &#34;cells&#34;: [
-  {
-   &#34;cell_type&#34;: &#34;markdown&#34;,
-   &#34;metadata&#34;: {
-    &#34;slideshow&#34;: {
-     &#34;slide_type&#34;: &#34;slide&#34;
-    }
-   },
-   &#34;source&#34;: [
-    &#34;\n&#34;,
-    &#34;# Jobs...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/tutorials/slurm/containers/</id>
-    <title type="html">Using Containers</title>
-    <link href="https://rc.davidson.edu/tutorials/slurm/containers/" rel="alternate" type="text/html"/>
-    
-    <updated>2024-08-10T20:47:29+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;p&gt;{
- &#34;cells&#34;: [
-  {
-   &#34;cell_type&#34;: &#34;markdown&#34;,
-   &#34;metadata&#34;: {},
-   &#34;source&#34;: [
-    &#34;# Using Containers&#34;
-   ]
-  },
-  {
-   &#34;cell_type&#34;: &#34;markdown&#34;,
-   &#34;metada...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
     <id>https://rc.davidson.edu/tutorials/ResourceLimits/</id>
     <title type="html">CPU Limits &amp;amp; Usage</title>
     <link href="https://rc.davidson.edu/tutorials/ResourceLimits/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:28+00:00</updated>
+    <updated>2025-02-15T21:51:55+00:00</updated>
 
     
 
@@ -127,7 +102,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Advanced Batch Scripting</title>
     <link href="https://rc.davidson.edu/tutorials/slurm/advanced-batch-scripting/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:28+00:00</updated>
+    <updated>2025-02-15T21:51:55+00:00</updated>
 
     
 
@@ -148,204 +123,265 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/</id>
-    <title type="html">Home</title>
-    <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/tutorials/slurm/basic-usage/</id>
+    <title type="html">Jobs &amp;amp; Batch Scripts</title>
+    <link href="https://rc.davidson.edu/tutorials/slurm/basic-usage/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:55+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;Welcome &amp;amp; First Steps&lt;/h1&gt;
-&lt;p&gt;For full documentation visit &lt;a href=&#34;https://rc.davidson.edu&#34;&gt;rc.davidson.edu&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Commands&lt;/h2&gt;
-&lt;p&gt;:heart:&lt;/p&gt;
-&lt;p&gt;!!! Note
-    This should look differ...&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;metadata&#34;: {
+    &#34;slideshow&#34;: {
+     &#34;slide_type&#34;: &#34;slide&#34;
+    }
+   },
+   &#34;source&#34;: [
+    &#34;\n&#34;,
+    &#34;# Jobs...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/advanced/</id>
-    <title type="html">Index</title>
-    <link href="https://rc.davidson.edu/docs/advanced/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/Prometheus-NodeExporter/</id>
+    <title type="html">Prometheus-NodeExporter</title>
+    <link href="https://rc.davidson.edu/docs/software/p/Prometheus-NodeExporter/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">None</summary>
+    <summary type="html">&lt;h1&gt;Prometheus-NodeExporter&lt;/h1&gt;
+&lt;p&gt;Prometheus exporter for hardware and OS metrics exposed by *NIX kernels, written in Go with pluggable metric collectors.&lt;/p&gt;
+&lt;p&gt;*homepag...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/advanced/conda/</id>
-    <title type="html">Conda</title>
-    <link href="https://rc.davidson.edu/docs/advanced/conda/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/Prometheus/</id>
+    <title type="html">Prometheus</title>
+    <link href="https://rc.davidson.edu/docs/software/p/Prometheus/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">None</summary>
+    <summary type="html">&lt;h1&gt;Prometheus&lt;/h1&gt;
+&lt;p&gt;Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system.  It collects metrics from configured targe...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/advanced/git/</id>
-    <title type="html">Git &amp; GitHub</title>
-    <link href="https://rc.davidson.edu/docs/advanced/git/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/PyCairo/</id>
+    <title type="html">PyCairo</title>
+    <link href="https://rc.davidson.edu/docs/software/p/PyCairo/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">None</summary>
+    <summary type="html">&lt;h1&gt;PyCairo&lt;/h1&gt;
+&lt;p&gt;Python bindings for the cairo library&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://pycairo.readthedocs.io/&#34;&gt;https://pycairo.readthedocs.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+&lt;code&gt;1.25.0&lt;/code&gt; | ``GCCco...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/advanced/modules/</id>
-    <title type="html">Environment Modules</title>
-    <link href="https://rc.davidson.edu/docs/advanced/modules/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/PyGObject/</id>
+    <title type="html">PyGObject</title>
+    <link href="https://rc.davidson.edu/docs/software/p/PyGObject/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">None</summary>
+    <summary type="html">&lt;h1&gt;PyGObject&lt;/h1&gt;
+&lt;p&gt;PyGObject is a Python package which provides bindings for GObject based libraries such as GTK, GStreamer, WebKitGTK, GLib, GIO and many more.&lt;/p&gt;
+&lt;p&gt;*...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/advanced/software/</id>
-    <title type="html">Software</title>
-    <link href="https://rc.davidson.edu/docs/advanced/software/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/PySCIPOpt/</id>
+    <title type="html">PySCIPOpt</title>
+    <link href="https://rc.davidson.edu/docs/software/p/PySCIPOpt/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">None</summary>
+    <summary type="html">&lt;h1&gt;PySCIPOpt&lt;/h1&gt;
+&lt;p&gt;This project provides an interface from Python to the SCIP Optimization Suite (SCIP-Suite).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/scipopt/PySCIPOpt&#34;&gt;https://github.com/scipopt/PySCIPOpt&lt;/a&gt;
+...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/advanced/development/</id>
-    <title type="html">Development</title>
-    <link href="https://rc.davidson.edu/docs/advanced/development/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/PySlurm/</id>
+    <title type="html">PySlurm</title>
+    <link href="https://rc.davidson.edu/docs/software/p/PySlurm/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">None</summary>
+    <summary type="html">&lt;h1&gt;PySlurm&lt;/h1&gt;
+&lt;p&gt;The &lt;code&gt;pyslurm&lt;/code&gt; package is a wrapper around the Slurm C-API&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/PySlurm/pyslurm&#34;&gt;https://github.com/PySlurm/pyslurm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|--------...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/advanced/jupyterhub/</id>
-    <title type="html">JupyterHub</title>
-    <link href="https://rc.davidson.edu/docs/advanced/jupyterhub/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/PyTorch-bundle/</id>
+    <title type="html">PyTorch-bundle</title>
+    <link href="https://rc.davidson.edu/docs/software/p/PyTorch-bundle/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">None</summary>
+    <summary type="html">&lt;h1&gt;PyTorch-bundle&lt;/h1&gt;
+&lt;p&gt;PyTorch with compatible versions of official Torch extensions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://pytorch.org/&#34;&gt;https://pytorch.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | versionsuffix | toolchain
+---...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/advanced/jupyterlab/</id>
-    <title type="html">JupyterLab</title>
-    <link href="https://rc.davidson.edu/docs/advanced/jupyterlab/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/PyTorch/</id>
+    <title type="html">PyTorch</title>
+    <link href="https://rc.davidson.edu/docs/software/p/PyTorch/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">None</summary>
+    <summary type="html">&lt;h1&gt;PyTorch&lt;/h1&gt;
+&lt;p&gt;Tensors and Dynamic neural networks in Python with strong GPU acceleration. PyTorch is a deep learning framework that puts Python first.&lt;/p&gt;
+&lt;p&gt;*homepag...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/advanced/slurm/</id>
-    <title type="html">SLURM</title>
-    <link href="https://rc.davidson.edu/docs/advanced/slurm/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/PyYAML/</id>
+    <title type="html">PyYAML</title>
+    <link href="https://rc.davidson.edu/docs/software/p/PyYAML/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">None</summary>
+    <summary type="html">&lt;h1&gt;PyYAML&lt;/h1&gt;
+&lt;p&gt;PyYAML is a YAML parser and emitter for the Python programming language.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/yaml/pyyaml&#34;&gt;https://github.com/yaml/pyyaml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+-------...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/basics/</id>
-    <title type="html">Index</title>
-    <link href="https://rc.davidson.edu/docs/basics/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/PyZMQ/</id>
+    <title type="html">PyZMQ</title>
+    <link href="https://rc.davidson.edu/docs/software/p/PyZMQ/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">None</summary>
+    <summary type="html">&lt;h1&gt;PyZMQ&lt;/h1&gt;
+&lt;p&gt;Python bindings for ZeroMQ&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://www.zeromq.org/bindings:python&#34;&gt;https://www.zeromq.org/bindings:python&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+&lt;code&gt;25.1.1&lt;/code&gt; | ``GCCcore/11....&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/basics/galaxy/</id>
-    <title type="html">Galaxy</title>
-    <link href="https://rc.davidson.edu/docs/basics/galaxy/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/PycURL/</id>
+    <title type="html">PycURL</title>
+    <link href="https://rc.davidson.edu/docs/software/p/PycURL/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;Galaxy&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h1&gt;PycURL&lt;/h1&gt;
+&lt;p&gt;PycURL is a Python interface to libcurl. PycURL can be used to fetch objects identified by a URL  from a Python program, similar to the urllib Pyth...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/basics/intro/</id>
-    <title type="html">Introduction</title>
-    <link href="https://rc.davidson.edu/docs/basics/intro/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/Pysam/</id>
+    <title type="html">Pysam</title>
+    <link href="https://rc.davidson.edu/docs/software/p/Pysam/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;First Steps&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h1&gt;Pysam&lt;/h1&gt;
+&lt;p&gt;Pysam is a python module for reading and manipulating Samfiles.  It&#39;s a lightweight wrapper of the samtools C-API. Pysam also includes an interface ...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/basics/jupyter/</id>
-    <title type="html">Jupyter</title>
-    <link href="https://rc.davidson.edu/docs/basics/jupyter/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/p/Python-bundle-PyPI/</id>
+    <title type="html">Python-bundle-PyPI</title>
+    <link href="https://rc.davidson.edu/docs/software/p/Python-bundle-PyPI/" rel="alternate" type="text/html"/>
     
-    <updated>2024-08-10T20:47:27+00:00</updated>
+    <updated>2025-02-15T21:51:54+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;Jupyter&lt;/h1&gt;</summary>
+    <summary type="html">&lt;h1&gt;Python-bundle-PyPI&lt;/h1&gt;
+&lt;p&gt;Bundle of Python packages from PyPI&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://python.org/&#34;&gt;https://python.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+&lt;code&gt;2023.06&lt;/code&gt; | ``GCCcore...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/p/Python-bundle/</id>
+    <title type="html">Python-bundle</title>
+    <link href="https://rc.davidson.edu/docs/software/p/Python-bundle/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-15T21:51:54+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Python-bundle&lt;/h1&gt;
+&lt;p&gt;Python distribution with a number of widely used  extensions incl. NumPy, SciPy, Matplotlib, JupyterLab, MPI4PY, ...&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &amp;lt;https://e...&lt;/p&gt;</summary>
   </entry>
   
 </feed>
