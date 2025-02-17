@@ -4,7 +4,7 @@
   <title type="html">Research Computing @ Davidson College</title>
   <link href="https://rc.davidson.edu/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
-  <updated>2025-02-17T06:48:51+00:00</updated>
+  <updated>2025-02-17T13:37:11+00:00</updated>
   <generator uri="https://github.com/maedadev/mkdocs-atom-plugin/" version="0.0.5">MkDocs Atom Plugin</generator>
 
   
@@ -13,7 +13,7 @@
     <title type="html">Three body</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/three_body/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:57+00:00</updated>
+    <updated>2025-02-17T13:37:17+00:00</updated>
 
     
 
@@ -31,7 +31,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Jobs &amp;amp; Batch Scripts</title>
     <link href="https://rc.davidson.edu/guides/slurm/basic-usage/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:56+00:00</updated>
+    <updated>2025-02-17T13:37:16+00:00</updated>
 
     
 
@@ -56,7 +56,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Using Containers</title>
     <link href="https://rc.davidson.edu/guides/slurm/containers/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:56+00:00</updated>
+    <updated>2025-02-17T13:37:16+00:00</updated>
 
     
 
@@ -81,7 +81,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">SLURM</title>
     <link href="https://rc.davidson.edu/guides/slurm/overview/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:56+00:00</updated>
+    <updated>2025-02-17T13:37:16+00:00</updated>
 
     
 
@@ -96,7 +96,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Job Arrays</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:56+00:00</updated>
+    <updated>2025-02-17T13:37:16+00:00</updated>
 
     
 
@@ -117,11 +117,93 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/y/yaml-cpp/</id>
+    <title type="html">yaml-cpp</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/y/yaml-cpp/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-17T13:37:15+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;yaml-cpp&lt;/h1&gt;
+&lt;p&gt;yaml-cpp is a YAML parser and emitter in C++ matching the YAML 1.2 spec&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/jbeder/yaml-cpp&#34;&gt;https://github.com/jbeder/yaml-cpp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/z/</id>
+    <title type="html">List of supported software (z)</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/z/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-17T13:37:15+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;List of supported software (z)&lt;/h1&gt;
+&lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/z/Z3/</id>
+    <title type="html">Z3</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/z/Z3/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-17T13:37:15+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Z3&lt;/h1&gt;
+&lt;p&gt;Z3 is a theorem prover from Microsoft Research.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/Z3Prover/z3&#34;&gt;https://github.com/Z3Prover/z3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+&lt;code&gt;4.10.2&lt;/code&gt; | ``G...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/z/ZIMPL/</id>
+    <title type="html">ZIMPL</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/z/ZIMPL/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-17T13:37:15+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;ZIMPL&lt;/h1&gt;
+&lt;p&gt;ZIMPL is a little language to translate the mathematical model of a problem into a linear or nonlinear (mixed-) integer mathematical program express...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/z/ZeroMQ/</id>
+    <title type="html">ZeroMQ</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/z/ZeroMQ/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-17T13:37:15+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;ZeroMQ&lt;/h1&gt;
+&lt;p&gt;ZeroMQ looks like an embeddable networking library but acts like a concurrency framework.  It gives you sockets that carry atomic messages across v...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
     <id>https://rc.davidson.edu/guides/ResourceLimits/</id>
     <title type="html">CPU Limits &amp;amp; Usage</title>
     <link href="https://rc.davidson.edu/guides/ResourceLimits/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:55+00:00</updated>
+    <updated>2025-02-17T13:37:15+00:00</updated>
 
     
 
@@ -142,7 +224,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Using Conda</title>
     <link href="https://rc.davidson.edu/guides/conda/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:55+00:00</updated>
+    <updated>2025-02-17T13:37:15+00:00</updated>
 
     
 
@@ -157,7 +239,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Git &amp; GitHub</title>
     <link href="https://rc.davidson.edu/guides/git/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:55+00:00</updated>
+    <updated>2025-02-17T13:37:15+00:00</updated>
 
     
 
@@ -172,7 +254,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">JupyterLab</title>
     <link href="https://rc.davidson.edu/guides/jupyterlab/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:55+00:00</updated>
+    <updated>2025-02-17T13:37:15+00:00</updated>
 
     
 
@@ -187,7 +269,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Advanced Batch Scripting</title>
     <link href="https://rc.davidson.edu/guides/slurm/advanced-batch-scripting/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:55+00:00</updated>
+    <updated>2025-02-17T13:37:15+00:00</updated>
 
     
 
@@ -208,172 +290,82 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Prometheus-BlackBoxExporter/</id>
-    <title type="html">Prometheus-BlackBoxExporter</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Prometheus-BlackBoxExporter/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/o/Octave/</id>
+    <title type="html">Octave</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/o/Octave/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:54+00:00</updated>
+    <updated>2025-02-17T13:37:14+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;Prometheus-BlackBoxExporter&lt;/h1&gt;
-&lt;p&gt;The blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, ICMP and gRPC.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &amp;lt;https://gi...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;Octave&lt;/h1&gt;
+&lt;p&gt;GNU Octave is a high-level interpreted language, primarily intended for numerical computations.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://www.gnu.org/software/octave/&#34;&gt;https://www.gnu.org/software/octave/&lt;/a&gt;...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Prometheus-NodeExporter/</id>
-    <title type="html">Prometheus-NodeExporter</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Prometheus-NodeExporter/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenBLAS/</id>
+    <title type="html">OpenBLAS</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenBLAS/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:54+00:00</updated>
+    <updated>2025-02-17T13:37:14+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;Prometheus-NodeExporter&lt;/h1&gt;
-&lt;p&gt;Prometheus exporter for hardware and OS metrics exposed by *NIX kernels, written in Go with pluggable metric collectors.&lt;/p&gt;
-&lt;p&gt;*homepag...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;OpenBLAS&lt;/h1&gt;
+&lt;p&gt;OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://xianyi.github.com/OpenBLAS/&#34;&gt;https://xianyi.github.com/OpenBLAS/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchai...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/Prometheus/</id>
-    <title type="html">Prometheus</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/Prometheus/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenCV/</id>
+    <title type="html">OpenCV</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenCV/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:54+00:00</updated>
+    <updated>2025-02-17T13:37:14+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;Prometheus&lt;/h1&gt;
-&lt;p&gt;Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system.  It collects metrics from configured targe...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;OpenCV&lt;/h1&gt;
+&lt;p&gt;OpenCV (Open Source Computer Vision Library) is an open source computer vision  and machine learning software library. OpenCV was built to provide ...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PyCairo/</id>
-    <title type="html">PyCairo</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PyCairo/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenEXR/</id>
+    <title type="html">OpenEXR</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenEXR/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:54+00:00</updated>
+    <updated>2025-02-17T13:37:14+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;PyCairo&lt;/h1&gt;
-&lt;p&gt;Python bindings for the cairo library&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://pycairo.readthedocs.io/&#34;&gt;https://pycairo.readthedocs.io/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
---------|----------
-&lt;code&gt;1.25.0&lt;/code&gt; | ``GCCco...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;OpenEXR&lt;/h1&gt;
+&lt;p&gt;OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light &amp;amp; Magic  for use in computer imaging applications&lt;/p&gt;
+&lt;p&gt;*homepage...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PyGObject/</id>
-    <title type="html">PyGObject</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PyGObject/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/docs/software/catalog/o/OpenJPEG/</id>
+    <title type="html">OpenJPEG</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/o/OpenJPEG/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T06:48:54+00:00</updated>
+    <updated>2025-02-17T13:37:14+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;PyGObject&lt;/h1&gt;
-&lt;p&gt;PyGObject is a Python package which provides bindings for GObject based libraries such as GTK, GStreamer, WebKitGTK, GLib, GIO and many more.&lt;/p&gt;
-&lt;p&gt;*...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PySCIPOpt/</id>
-    <title type="html">PySCIPOpt</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PySCIPOpt/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-17T06:48:54+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PySCIPOpt&lt;/h1&gt;
-&lt;p&gt;This project provides an interface from Python to the SCIP Optimization Suite (SCIP-Suite).&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/scipopt/PySCIPOpt&#34;&gt;https://github.com/scipopt/PySCIPOpt&lt;/a&gt;
-...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PySlurm/</id>
-    <title type="html">PySlurm</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PySlurm/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-17T06:48:54+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PySlurm&lt;/h1&gt;
-&lt;p&gt;The &lt;code&gt;pyslurm&lt;/code&gt; package is a wrapper around the Slurm C-API&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/PySlurm/pyslurm&#34;&gt;https://github.com/PySlurm/pyslurm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
---------|--------...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PyTorch-bundle/</id>
-    <title type="html">PyTorch-bundle</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PyTorch-bundle/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-17T06:48:54+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PyTorch-bundle&lt;/h1&gt;
-&lt;p&gt;PyTorch with compatible versions of official Torch extensions.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://pytorch.org/&#34;&gt;https://pytorch.org/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | versionsuffix | toolchain
----...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PyTorch/</id>
-    <title type="html">PyTorch</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PyTorch/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-17T06:48:54+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PyTorch&lt;/h1&gt;
-&lt;p&gt;Tensors and Dynamic neural networks in Python with strong GPU acceleration. PyTorch is a deep learning framework that puts Python first.&lt;/p&gt;
-&lt;p&gt;*homepag...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/p/PyYAML/</id>
-    <title type="html">PyYAML</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/p/PyYAML/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-17T06:48:54+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;PyYAML&lt;/h1&gt;
-&lt;p&gt;PyYAML is a YAML parser and emitter for the Python programming language.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/yaml/pyyaml&#34;&gt;https://github.com/yaml/pyyaml&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
--------...&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1&gt;OpenJPEG&lt;/h1&gt;
+&lt;p&gt;OpenJPEG is an open-source JPEG 2000 codec written in  C language. It has been developed in order to promote the use of JPEG 2000,  a still-image...&lt;/p&gt;</summary>
   </entry>
   
 </feed>
