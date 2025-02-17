@@ -4,41 +4,16 @@
   <title type="html">Research Computing @ Davidson College</title>
   <link href="https://rc.davidson.edu/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
-  <updated>2025-02-16T23:08:32+00:00</updated>
+  <updated>2025-02-16T23:16:13+00:00</updated>
   <generator uri="https://github.com/maedadev/mkdocs-atom-plugin/" version="0.0.5">MkDocs Atom Plugin</generator>
 
-  
-  <entry>
-    <id>https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/</id>
-    <title type="html">Job Arrays</title>
-    <link href="https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:38+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;p&gt;{
- &#34;cells&#34;: [
-  {
-   &#34;cell_type&#34;: &#34;markdown&#34;,
-   &#34;id&#34;: &#34;735352a1&#34;,
-   &#34;metadata&#34;: {},
-   &#34;source&#34;: [
-    &#34;# Job Arrays&#34;
-   ]
-  },
-  {
-   &#34;cell_type&#34;: &#34;code&#34;,...&lt;/p&gt;</summary>
-  </entry>
   
   <entry>
     <id>https://rc.davidson.edu/guides/slurm/job-arrays/three_body/</id>
     <title type="html">Three body</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/three_body/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-16T23:08:38+00:00</updated>
+    <updated>2025-02-16T23:16:19+00:00</updated>
 
     
 
@@ -56,7 +31,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Jobs &amp;amp; Batch Scripts</title>
     <link href="https://rc.davidson.edu/guides/slurm/basic-usage/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-16T23:08:37+00:00</updated>
+    <updated>2025-02-16T23:16:18+00:00</updated>
 
     
 
@@ -81,7 +56,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Using Containers</title>
     <link href="https://rc.davidson.edu/guides/slurm/containers/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-16T23:08:37+00:00</updated>
+    <updated>2025-02-16T23:16:18+00:00</updated>
 
     
 
@@ -106,7 +81,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Overview</title>
     <link href="https://rc.davidson.edu/guides/slurm/overview/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-16T23:08:37+00:00</updated>
+    <updated>2025-02-16T23:16:18+00:00</updated>
 
     
 
@@ -117,229 +92,28 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/t/tensorboard/</id>
-    <title type="html">tensorboard</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/t/tensorboard/" rel="alternate" type="text/html"/>
+    <id>https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/</id>
+    <title type="html">Job Arrays</title>
+    <link href="https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-16T23:08:36+00:00</updated>
+    <updated>2025-02-16T23:16:18+00:00</updated>
 
     
 
     
 
-    <summary type="html">&lt;h1&gt;tensorboard&lt;/h1&gt;
-&lt;p&gt;TensorBoard is a suite of web applications for inspecting and understanding your TensorFlow runs and graphs.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &amp;lt;https://github.com/...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/t/tesseract/</id>
-    <title type="html">tesseract</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/t/tesseract/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;tesseract&lt;/h1&gt;
-&lt;p&gt;Tesseract is an optical character recognition engine&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/tesseract-ocr/tesseract&#34;&gt;https://github.com/tesseract-ocr/tesseract&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
---------|---...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/t/texlive/</id>
-    <title type="html">texlive</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/t/texlive/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;texlive&lt;/h1&gt;
-&lt;p&gt;TeX is a typesetting language. Instead of visually formatting your text, you enter your manuscript  text intertwined with TeX commands in a plain ...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/t/tornado/</id>
-    <title type="html">tornado</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/t/tornado/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;tornado&lt;/h1&gt;
-&lt;p&gt;Tornado is a Python web framework and asynchronous networking library.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/tornadoweb/tornado&#34;&gt;https://github.com/tornadoweb/tornado&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
--...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/t/tqdm/</id>
-    <title type="html">tqdm</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/t/tqdm/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;tqdm&lt;/h1&gt;
-&lt;p&gt;A fast, extensible progress bar for Python and CLI&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/tqdm/tqdm&#34;&gt;https://github.com/tqdm/tqdm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
---------|----------
-&lt;code&gt;4.64.0&lt;/code&gt; | ...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/u/</id>
-    <title type="html">List of supported software (u)</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/u/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;List of supported software (u)&lt;/h1&gt;
-&lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/u/UCC/</id>
-    <title type="html">UCC</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/u/UCC/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;UCC&lt;/h1&gt;
-&lt;p&gt;UCC (Unified Collective Communication) is a collective communication operations API and library that is flexible, complete, and  feature-rich for curr...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/u/UCX-CUDA/</id>
-    <title type="html">UCX-CUDA</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/u/UCX-CUDA/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;UCX-CUDA&lt;/h1&gt;
-&lt;p&gt;Unified Communication X An open-source production grade communication framework for data centric and high-performance applications  This module a...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/u/UCX/</id>
-    <title type="html">UCX</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/u/UCX/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;UCX&lt;/h1&gt;
-&lt;p&gt;Unified Communication X An open-source production grade communication framework for data centric and high-performance applications&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &amp;lt;https...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/u/UDUNITS/</id>
-    <title type="html">UDUNITS</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/u/UDUNITS/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;UDUNITS&lt;/h1&gt;
-&lt;p&gt;UDUNITS supports conversion of unit specifications between formatted and binary forms,  arithmetic manipulation of units, and conversion of values...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/u/utf8proc/</id>
-    <title type="html">utf8proc</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/u/utf8proc/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;utf8proc&lt;/h1&gt;
-&lt;p&gt;utf8proc is a small, clean C library that provides Unicode normalization, case-folding,  and other operations for data in the UTF-8 encoding.&lt;/p&gt;
-&lt;p&gt;*h...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/v/</id>
-    <title type="html">List of supported software (v)</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/v/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;List of supported software (v)&lt;/h1&gt;
-&lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/v/VirtualGL/</id>
-    <title type="html">VirtualGL</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/v/VirtualGL/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;VirtualGL&lt;/h1&gt;
-&lt;p&gt;VirtualGL is an open source toolkit that gives any Linux or  Unix remote display software the ability to run OpenGL applications with full  hard...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/v/virtualenv/</id>
-    <title type="html">virtualenv</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/v/virtualenv/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-16T23:08:36+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;virtualenv&lt;/h1&gt;
-&lt;p&gt;A tool for creating isolated virtual python environments.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/pypa/virtualenv&#34;&gt;https://github.com/pypa/virtualenv&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
---------|-----...&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;id&#34;: &#34;735352a1&#34;,
+   &#34;metadata&#34;: {},
+   &#34;source&#34;: [
+    &#34;# Job Arrays&#34;
+   ]
+  },
+  {
+   &#34;cell_type&#34;: &#34;code&#34;,...&lt;/p&gt;</summary>
   </entry>
   
   <entry>
@@ -347,7 +121,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">List of supported software (w)</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/w/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-16T23:08:36+00:00</updated>
+    <updated>2025-02-16T23:16:17+00:00</updated>
 
     
 
@@ -355,6 +129,234 @@ import matplotlib.pyplot as plt&lt;/p&gt;
 
     <summary type="html">&lt;h1&gt;List of supported software (w)&lt;/h1&gt;
 &lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/w/Wayland/</id>
+    <title type="html">Wayland</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/w/Wayland/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Wayland&lt;/h1&gt;
+&lt;p&gt;Wayland is a project to define a protocol for a compositor to talk to  its clients as well as a library implementation of the protocol.  The  comp...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/x/</id>
+    <title type="html">List of supported software (x)</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/x/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;List of supported software (x)&lt;/h1&gt;
+&lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/x/X11/</id>
+    <title type="html">X11</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/x/X11/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;X11&lt;/h1&gt;
+&lt;p&gt;The X Window System (X11) is a windowing system for bitmap displays&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://www.x.org&#34;&gt;https://www.x.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+``202205...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/x/Xerces-C%2B%2B/</id>
+    <title type="html">Xerces-C++</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/x/Xerces-C%2B%2B/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Xerces-C++&lt;/h1&gt;
+&lt;p&gt;Xerces-C++ is a validating XML parser written in a portable subset of C++. Xerces-C++ makes it easy to give your application the ability to rea...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/x/x264/</id>
+    <title type="html">x264</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/x/x264/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;x264&lt;/h1&gt;
+&lt;p&gt;x264 is a free software library and application for encoding video streams  into the H.264/MPEG-4 AVC compression format, and is released under the  ...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/x/x265/</id>
+    <title type="html">x265</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/x/x265/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;x265&lt;/h1&gt;
+&lt;p&gt;x265 is a free software library and application for encoding video streams  into the H.265 AVC compression format, and is released under the terms of...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/x/xorg-macros/</id>
+    <title type="html">xorg-macros</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/x/xorg-macros/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;xorg-macros&lt;/h1&gt;
+&lt;p&gt;X.org macros utilities.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://cgit.freedesktop.org/xorg/util/macros&#34;&gt;https://cgit.freedesktop.org/xorg/util/macros&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+&lt;code&gt;1.19.3&lt;/code&gt; | ``G...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/x/xprop/</id>
+    <title type="html">xprop</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/x/xprop/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;xprop&lt;/h1&gt;
+&lt;p&gt;The xprop utility is for displaying window and font properties in an X server.  One window or font is selected using the command line arguments or p...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/y/</id>
+    <title type="html">List of supported software (y)</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/y/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;List of supported software (y)&lt;/h1&gt;
+&lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/y/Yasm/</id>
+    <title type="html">Yasm</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/y/Yasm/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Yasm&lt;/h1&gt;
+&lt;p&gt;Yasm: Complete rewrite of the NASM assembler with BSD license&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://www.tortall.net/projects/yasm/&#34;&gt;https://www.tortall.net/projects/yasm/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|---...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/y/yaml-cpp/</id>
+    <title type="html">yaml-cpp</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/y/yaml-cpp/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;yaml-cpp&lt;/h1&gt;
+&lt;p&gt;yaml-cpp is a YAML parser and emitter in C++ matching the YAML 1.2 spec&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/jbeder/yaml-cpp&#34;&gt;https://github.com/jbeder/yaml-cpp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/z/</id>
+    <title type="html">List of supported software (z)</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/z/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;List of supported software (z)&lt;/h1&gt;
+&lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/z/Z3/</id>
+    <title type="html">Z3</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/z/Z3/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Z3&lt;/h1&gt;
+&lt;p&gt;Z3 is a theorem prover from Microsoft Research.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/Z3Prover/z3&#34;&gt;https://github.com/Z3Prover/z3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+&lt;code&gt;4.10.2&lt;/code&gt; | ``G...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/z/ZIMPL/</id>
+    <title type="html">ZIMPL</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/z/ZIMPL/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-16T23:16:17+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;ZIMPL&lt;/h1&gt;
+&lt;p&gt;ZIMPL is a little language to translate the mathematical model of a problem into a linear or nonlinear (mixed-) integer mathematical program express...&lt;/p&gt;</summary>
   </entry>
   
 </feed>
