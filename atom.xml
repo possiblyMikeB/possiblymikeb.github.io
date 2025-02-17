@@ -4,7 +4,7 @@
   <title type="html">Research Computing @ Davidson College</title>
   <link href="https://rc.davidson.edu/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="https://rc.davidson.edu/" rel="alternate" type="text/html"/>
-  <updated>2025-02-17T05:51:38+00:00</updated>
+  <updated>2025-02-17T05:56:30+00:00</updated>
   <generator uri="https://github.com/maedadev/mkdocs-atom-plugin/" version="0.0.5">MkDocs Atom Plugin</generator>
 
   
@@ -13,7 +13,7 @@
     <title type="html">Three body</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/three_body/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:44+00:00</updated>
+    <updated>2025-02-17T05:56:36+00:00</updated>
 
     
 
@@ -31,7 +31,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Jobs &amp;amp; Batch Scripts</title>
     <link href="https://rc.davidson.edu/guides/slurm/basic-usage/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:43+00:00</updated>
+    <updated>2025-02-17T05:56:35+00:00</updated>
 
     
 
@@ -56,7 +56,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Using Containers</title>
     <link href="https://rc.davidson.edu/guides/slurm/containers/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:43+00:00</updated>
+    <updated>2025-02-17T05:56:35+00:00</updated>
 
     
 
@@ -81,7 +81,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">SLURM</title>
     <link href="https://rc.davidson.edu/guides/slurm/overview/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:43+00:00</updated>
+    <updated>2025-02-17T05:56:35+00:00</updated>
 
     
 
@@ -96,7 +96,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Job Arrays</title>
     <link href="https://rc.davidson.edu/guides/slurm/job-arrays/job-arrays/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:43+00:00</updated>
+    <updated>2025-02-17T05:56:35+00:00</updated>
 
     
 
@@ -117,74 +117,11 @@ import matplotlib.pyplot as plt&lt;/p&gt;
   </entry>
   
   <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/v/VirtualGL/</id>
-    <title type="html">VirtualGL</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/v/VirtualGL/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-17T05:51:42+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;VirtualGL&lt;/h1&gt;
-&lt;p&gt;VirtualGL is an open source toolkit that gives any Linux or  Unix remote display software the ability to run OpenGL applications with full  hard...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/v/virtualenv/</id>
-    <title type="html">virtualenv</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/v/virtualenv/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-17T05:51:42+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;virtualenv&lt;/h1&gt;
-&lt;p&gt;A tool for creating isolated virtual python environments.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/pypa/virtualenv&#34;&gt;https://github.com/pypa/virtualenv&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;version | toolchain
---------|-----...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/w/</id>
-    <title type="html">List of supported software (w)</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/w/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-17T05:51:42+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;List of supported software (w)&lt;/h1&gt;
-&lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
-    <id>https://rc.davidson.edu/docs/software/catalog/w/Wayland/</id>
-    <title type="html">Wayland</title>
-    <link href="https://rc.davidson.edu/docs/software/catalog/w/Wayland/" rel="alternate" type="text/html"/>
-    
-    <updated>2025-02-17T05:51:42+00:00</updated>
-
-    
-
-    
-
-    <summary type="html">&lt;h1&gt;Wayland&lt;/h1&gt;
-&lt;p&gt;Wayland is a project to define a protocol for a compositor to talk to  its clients as well as a library implementation of the protocol.  The  comp...&lt;/p&gt;</summary>
-  </entry>
-  
-  <entry>
     <id>https://rc.davidson.edu/docs/software/catalog/x/</id>
     <title type="html">List of supported software (x)</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/x/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:42+00:00</updated>
+    <updated>2025-02-17T05:56:34+00:00</updated>
 
     
 
@@ -199,7 +136,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">X11</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/x/X11/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:42+00:00</updated>
+    <updated>2025-02-17T05:56:34+00:00</updated>
 
     
 
@@ -218,7 +155,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Xerces-C++</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/x/Xerces-C%2B%2B/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:42+00:00</updated>
+    <updated>2025-02-17T05:56:34+00:00</updated>
 
     
 
@@ -233,7 +170,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">x264</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/x/x264/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:42+00:00</updated>
+    <updated>2025-02-17T05:56:34+00:00</updated>
 
     
 
@@ -248,7 +185,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">x265</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/x/x265/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:42+00:00</updated>
+    <updated>2025-02-17T05:56:34+00:00</updated>
 
     
 
@@ -263,7 +200,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">xorg-macros</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/x/xorg-macros/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:42+00:00</updated>
+    <updated>2025-02-17T05:56:34+00:00</updated>
 
     
 
@@ -282,7 +219,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">xprop</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/x/xprop/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:42+00:00</updated>
+    <updated>2025-02-17T05:56:34+00:00</updated>
 
     
 
@@ -297,7 +234,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">List of supported software (y)</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/y/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:42+00:00</updated>
+    <updated>2025-02-17T05:56:34+00:00</updated>
 
     
 
@@ -312,7 +249,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">Yasm</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/y/Yasm/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:42+00:00</updated>
+    <updated>2025-02-17T05:56:34+00:00</updated>
 
     
 
@@ -330,7 +267,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">yaml-cpp</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/y/yaml-cpp/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:42+00:00</updated>
+    <updated>2025-02-17T05:56:34+00:00</updated>
 
     
 
@@ -348,7 +285,7 @@ import matplotlib.pyplot as plt&lt;/p&gt;
     <title type="html">List of supported software (z)</title>
     <link href="https://rc.davidson.edu/docs/software/catalog/z/" rel="alternate" type="text/html"/>
     
-    <updated>2025-02-17T05:51:42+00:00</updated>
+    <updated>2025-02-17T05:56:34+00:00</updated>
 
     
 
@@ -356,6 +293,76 @@ import matplotlib.pyplot as plt&lt;/p&gt;
 
     <summary type="html">&lt;h1&gt;List of supported software (z)&lt;/h1&gt;
 &lt;p&gt;*(quick links: &lt;a href=&#34;../index.md&#34;&gt;(all)&lt;/a&gt; - &lt;a href=&#34;../a/index.md&#34;&gt;a&lt;/a&gt; - &lt;a href=&#34;../b/index.md&#34;&gt;b&lt;/a&gt; - &lt;a href=&#34;../c/index.md&#34;&gt;c&lt;/a&gt; - &lt;a href=&#34;../d/index.md&#34;&gt;d&lt;/a&gt; - [...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/z/Z3/</id>
+    <title type="html">Z3</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/z/Z3/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-17T05:56:34+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;Z3&lt;/h1&gt;
+&lt;p&gt;Z3 is a theorem prover from Microsoft Research.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;homepage&lt;/em&gt;: &lt;a href=&#34;https://github.com/Z3Prover/z3&#34;&gt;https://github.com/Z3Prover/z3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;version | toolchain
+--------|----------
+&lt;code&gt;4.10.2&lt;/code&gt; | ``G...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/z/ZIMPL/</id>
+    <title type="html">ZIMPL</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/z/ZIMPL/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-17T05:56:34+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;ZIMPL&lt;/h1&gt;
+&lt;p&gt;ZIMPL is a little language to translate the mathematical model of a problem into a linear or nonlinear (mixed-) integer mathematical program express...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/docs/software/catalog/z/ZeroMQ/</id>
+    <title type="html">ZeroMQ</title>
+    <link href="https://rc.davidson.edu/docs/software/catalog/z/ZeroMQ/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-17T05:56:34+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;h1&gt;ZeroMQ&lt;/h1&gt;
+&lt;p&gt;ZeroMQ looks like an embeddable networking library but acts like a concurrency framework.  It gives you sockets that carry atomic messages across v...&lt;/p&gt;</summary>
+  </entry>
+  
+  <entry>
+    <id>https://rc.davidson.edu/guides/ResourceLimits/</id>
+    <title type="html">CPU Limits &amp;amp; Usage</title>
+    <link href="https://rc.davidson.edu/guides/ResourceLimits/" rel="alternate" type="text/html"/>
+    
+    <updated>2025-02-17T05:56:34+00:00</updated>
+
+    
+
+    
+
+    <summary type="html">&lt;p&gt;{
+ &#34;cells&#34;: [
+  {
+   &#34;cell_type&#34;: &#34;markdown&#34;,
+   &#34;id&#34;: &#34;e0a3db00-adbf-4509-883c-d2a8c050db1b&#34;,
+   &#34;metadata&#34;: {},
+   &#34;source&#34;: [
+    &#34;# CPU Limits &amp;amp; Usage\n&#34;...&lt;/p&gt;</summary>
   </entry>
   
 </feed>
