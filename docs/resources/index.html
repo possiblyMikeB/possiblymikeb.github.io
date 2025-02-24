@@ -75,6 +75,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#resources" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -398,7 +403,7 @@
             
   
   <span class="md-ellipsis">
-    Remote Connection
+    Connecting
     
   </span>
   
@@ -409,7 +414,7 @@
         <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2_5">
             <span class="md-nav__icon md-icon"></span>
-            Remote Connection
+            Connecting
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -420,33 +425,11 @@
   
   
     <li class="md-nav__item">
-      <a href="../../guides/remote/ssh/" class="md-nav__link">
+      <a href="../../guides/remote/ssh_scp/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
-    SSH
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../guides/remote/scp/" class="md-nav__link">
-        
-  
-  <span class="md-ellipsis">
-    SCP
+    SSH & SCP
     
   </span>
   
@@ -642,6 +625,20 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Resources
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -653,6 +650,43 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ada-lovelace-research-computing-cluster" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ada Lovelace Research Computing Cluster
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nsf-access" class="md-nav__link">
+    <span class="md-ellipsis">
+      NSF ACCESS
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -771,6 +805,34 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ada-lovelace-research-computing-cluster" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ada Lovelace Research Computing Cluster
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nsf-access" class="md-nav__link">
+    <span class="md-ellipsis">
+      NSF ACCESS
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -786,9 +848,37 @@
 
 
 
-  <h1>Resources</h1>
-
-
+<h1 id="resources">Resources</h1>
+<h2 id="ada-lovelace-research-computing-cluster">Ada Lovelace Research Computing Cluster</h2>
+<p><em>Davidson College</em> maintains a small fleet of high performance computing and virtual computing systems, along with supporting infrastructure, that are reserved for academic purposes. Funded through various grants, start-up funds, and capital budget requests, these systems further the academic mission of Davidson College by:</p>
+<ul>
+<li>
+<p>Enabling faculty research and furthering the scope of undergraduate research experiences.</p>
+</li>
+<li>
+<p>Improving student educational outcomes by enabling the use of advanced computing infrastructure for instruction, such as JupyterHub and Galaxy Services.</p>
+</li>
+<li>
+<p>Serving as trusted infrastructure supporting and enabling publicly funded Faculty and Student activities.</p>
+</li>
+</ul>
+<p>These systems are divided into departmental groups, but they are managed, run, and wholly owned by <em>Davidson College</em>. <em>Davidson College</em>'s department of <em>Technology and Innovation</em> is tasked with operating and supporting these machines in a manner that enables collaboration and technical compatibility. In furtherance of this goal, these groups of machines are all configured to operate together as the Ada Lovelace Research Computing Cluster.</p>
+<p>The Ada Lovelace Research Computing Cluster is divided into three groups:</p>
+<ul>
+<li>
+<p><em>M&amp;CS Group</em>: 8 nodes, 384 logical cores, 2.0TB of available memory, high-speed interconnect.</p>
+</li>
+<li>
+<p><em>ALPhA Group</em>: 5 nodes, 216 logical cores, 1.25TB of available memory, 8 Amphere and Turing based GPUs.</p>
+</li>
+<li>
+<p><em>Davidson Group</em>: 10+1 nodes, 192+32 logical cores, 1.0TB of available memory, 14 Turing &amp; Amphere based GPUs providing 288GB of video memory, and a high-speed storage appliance providing TB of storage. </p>
+</li>
+</ul>
+<p>All systems use the Davidson Group high-speed storage appliance for shared storage, occupy a network segment/subnet dedicated to research computing, use a common identity provider, and are managed by the <em>Research Computing</em> group inside of <em>T&amp;I</em>.</p>
+<p>For more information see the <a href="https://support.ti.davidson.edu/hc/en-us/articles/4662455417879-High-Performance-Computing-Cluster-Overview">support article</a>.</p>
+<h2 id="nsf-access">NSF ACCESS</h2>
+<p>Through the colleges participation in the Campus Champions program, each year the college receieves a non-trivial allocation of resources through the <a href="https://access-ci.org">NSF ACCESS</a> program. In addition to providing portions of this allocation to instructors &amp; researchers wishing to use  NSF ACCESS resources, we have the ability to expedite applications for independent allocations.</p>
 
 
 
