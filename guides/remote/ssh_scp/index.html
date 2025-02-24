@@ -515,15 +515,6 @@
   
 </li>
         
-          <li class="md-nav__item">
-  <a href="#entering-an-incorrect-password" class="md-nav__link">
-    <span class="md-ellipsis">
-      Entering an Incorrect Password
-    </span>
-  </a>
-  
-</li>
-        
       </ul>
     </nav>
   
@@ -987,15 +978,6 @@
   
 </li>
         
-          <li class="md-nav__item">
-  <a href="#entering-an-incorrect-password" class="md-nav__link">
-    <span class="md-ellipsis">
-      Entering an Incorrect Password
-    </span>
-  </a>
-  
-</li>
-        
       </ul>
     </nav>
   
@@ -1154,8 +1136,6 @@ Request timeout for icmp_seq 3
 </div>
 <h4 id="entering-a-non-existent-username">Entering a Non-existent Username</h4>
 <p><code>ssh</code> will not tell you if you are trying to login through a nonexistent username. You will still be prompted for a password, but you will never be allowed in (since the user doesn’t even exist). So if you find that your password is not being accepted, check to make sure you have entered the correct username.</p>
-<h4 id="entering-an-incorrect-password">Entering an Incorrect Password</h4>
-<p>In the case of the machines you will be using, a Duo push request will always be sent to your phone after entering a password, even if that password is incorrect. One way to guarantee the password you are entering is correct, is to copy and paste it into the terminal once prompted.</p>
 <h3 id="ssh-public-key-authentication-for-maclinux">SSH Public-Key Authentication for Mac/Linux</h3>
 <p>Constantly having to respond to a Duo push request can get frustrating quickly. Thankfully there is a way to connect to the cluster which does not subject you to constantly having to verify your identity.</p>
 <p>The SSH command is actually only one part of a suite of tools (which includes scp) designed to enable secure access to remote machines. When used in conjunction with one another these tools can securely verify your identity with a trusted machine (so much so, you won’t need to be prompted for a password or sent Duo notification). </p>
